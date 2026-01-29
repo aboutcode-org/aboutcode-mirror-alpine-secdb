@@ -1,0 +1,28 @@
+name: Mirror Alpine Security database
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run sync
+        run: wget --mirror --no-parent --reject "index.html*" --no-host-directories -P secdb https://secdb.alpinelinux.org/
+
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "AboutCode Automation"
+          git config user.email "automation@aboutcode.org"
+          git add -A
+          git commit -m "$(echo -e "Sync latest Alpine secdb\n\nSigned-off-by: AboutCode Automation <automation@aboutcode.org>")" || exit 0
+          git push
