@@ -7278,6 +7278,8 @@ packages:
       - CVE-2026-0899
       - CVE-2026-0905
       - CVE-2026-0908
+      6.10.1-r7:
+      - CVE-2026-1220
 - pkg:
     name: quassel
     secfixes:
