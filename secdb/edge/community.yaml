@@ -7283,6 +7283,9 @@ packages:
       - CVE-2026-0908
       6.10.1-r7:
       - CVE-2026-1220
+      6.10.2-r1:
+      - CVE-2026-0628
+      - CVE-2026-1504
 - pkg:
     name: quassel
     secfixes:
@@ -9126,6 +9129,8 @@ packages:
       - CVE-2023-40184
       0.9.23.1-r0:
       - CVE-2023-42822
+      0.10.5-r0:
+      - CVE-2025-68670
 - pkg:
     name: xscreensaver
     secfixes:

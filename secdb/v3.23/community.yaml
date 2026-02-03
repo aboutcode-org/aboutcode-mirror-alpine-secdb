@@ -8778,6 +8778,8 @@ packages:
       - CVE-2023-40184
       0.9.23.1-r0:
       - CVE-2023-42822
+      0.10.5-r0:
+      - CVE-2025-68670
 - pkg:
     name: xscreensaver
     secfixes:
