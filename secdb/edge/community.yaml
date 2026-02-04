@@ -3712,6 +3712,16 @@ packages:
       1.14.41-r0:
       - CVE-2016-9888
 - pkg:
+    name: libheif
+    secfixes:
+      1.5.0-r0:
+      - CVE-2019-11471
+      1.17.6-r0:
+      - CVE-2023-49462
+      - CVE-2023-49463
+      1.21.2-r0:
+      - CVE-2025-68431
+- pkg:
     name: libinput
     secfixes:
       1.20.1-r0:
@@ -8656,6 +8666,16 @@ packages:
     secfixes:
       9.54-r1:
       - CVE-2023-43361
+- pkg:
+    name: w3m
+    secfixes:
+      0.5.3_git20241203-r0:
+      - CVE-2023-38252
+      - CVE-2023-38253
+      - CVE-2022-38223
+      - CVE-2018-6196
+      - CVE-2018-6197
+      - CVE-2018-6198
 - pkg:
     name: wavpack
     secfixes:

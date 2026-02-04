@@ -1826,6 +1826,8 @@ packages:
       1.17.6-r0:
       - CVE-2023-49462
       - CVE-2023-49463
+      1.21.2-r0:
+      - CVE-2025-68431
 - pkg:
     name: libice
     secfixes:
