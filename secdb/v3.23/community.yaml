@@ -2752,6 +2752,9 @@ packages:
       - CVE-2025-61731
       - CVE-2025-68119
       - CVE-2025-68121
+      1.25.7-r0:
+      - CVE-2025-61732
+      - CVE-2025-68121
 - pkg:
     name: gradle
     secfixes:
