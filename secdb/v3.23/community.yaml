@@ -6261,6 +6261,11 @@ packages:
       11.3.0-r0:
       - CVE 2025-48379
 - pkg:
+    name: py3-pynacl
+    secfixes:
+      1.6.2-r0:
+      - CVE-2025-69277
+- pkg:
     name: py3-redis
     secfixes:
       4.5.4-r0:

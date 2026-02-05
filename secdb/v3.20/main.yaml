@@ -3775,6 +3775,8 @@ packages:
       - CVE-2021-20227
       3.45.3-r2:
       - CVE-2025-29087
+      3.45.3-r3:
+      - CVE-2025-6965
 - pkg:
     name: squashfs-tools
     secfixes:
