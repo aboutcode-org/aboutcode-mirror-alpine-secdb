@@ -1245,6 +1245,9 @@ packages:
       - CVE-2025-32989 GNUTLS-SA-2025-07-07-1
       - CVE-2025-32990 GNUTLS-SA-2025-07-07-3
       - CVE-2025-6395 GNUTLS-SA-2025-07-07-4
+      3.8.12-r0:
+      - CVE-2026-1584 GNUTLS-SA-2026-02-09-1
+      - CVE-2025-14831 GNUTLS-SA-2026-02-09-2
 - pkg:
     name: gptfdisk
     secfixes:
@@ -1803,6 +1806,8 @@ packages:
       1.6.54-r0:
       - CVE-2026-22695
       - CVE-2026-22801
+      1.6.55-r0:
+      - CVE-2026-25646
 - pkg:
     name: libseccomp
     secfixes:

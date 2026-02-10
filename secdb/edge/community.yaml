@@ -5765,6 +5765,9 @@ packages:
       5.3.1-r1:
       - CVE-2025-59029
       - CVE-2025-59030
+      5.3.5-r0:
+      - CVE-2026-24027
+      - CVE-2026-0398
 - pkg:
     name: pdns
     secfixes:
