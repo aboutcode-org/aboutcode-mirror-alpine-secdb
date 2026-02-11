@@ -251,6 +251,12 @@ packages:
       - CVE-2025-24367
       - CVE-2025-24368
 - pkg:
+    name: capstone
+    secfixes:
+      5.0.7-r0:
+      - CVE-2025-67873
+      - CVE-2025-68114
+- pkg:
     name: cargo-modules
     secfixes:
       0.21.1-r0:
