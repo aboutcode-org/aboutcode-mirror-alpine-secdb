@@ -966,6 +966,11 @@ packages:
       1.102.0-r0:
       - CVE-2023-48795
 - pkg:
+    name: dotnet10-runtime
+    secfixes:
+      10.0.3-r0:
+      - CVE-2026-21218
+- pkg:
     name: dotnet8-runtime
     secfixes:
       8.0.2-r0:
