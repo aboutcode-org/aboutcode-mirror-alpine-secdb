@@ -6309,6 +6309,8 @@ packages:
       - CVE-2024-28219
       11.3.0-r0:
       - CVE 2025-48379
+      11.3.0-r2:
+      - CVE-2026-25990
 - pkg:
     name: py3-pynacl
     secfixes:
