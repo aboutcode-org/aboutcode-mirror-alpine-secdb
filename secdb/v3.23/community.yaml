@@ -7838,6 +7838,8 @@ packages:
       - CVE-2025-49090
       1.139.2-r0:
       - CVE-2025-61672
+      1.147.1-r0:
+      - CVE-2026-24044
 - pkg:
     name: syncthing
     secfixes:
