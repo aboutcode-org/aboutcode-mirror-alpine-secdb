@@ -6669,11 +6669,6 @@ packages:
       - CVE-2023-32762
       - CVE-2023-32763
 - pkg:
-    name: qt5-qtimageformats
-    secfixes:
-      5.15.10_git20230612-r1:
-      - CVE-2023-4863
-- pkg:
     name: qt5-qtwebengine
     secfixes:
       5.15.3_git20200401-r0:
