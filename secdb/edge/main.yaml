@@ -1497,6 +1497,9 @@ packages:
       - CVE-2025-24305
       - CVE-2025-26403
       - CVE-2025-32086
+      20260210-r0:
+      - CVE-2024-24853
+      - CVE-2025-31648
 - pkg:
     name: iperf3
     secfixes:
@@ -3154,12 +3157,24 @@ packages:
       17.7-r0:
       - CVE-2025-12817
       - CVE-2025-12818
+      17.8-r0:
+      - CVE-2026-2003
+      - CVE-2026-2004
+      - CVE-2026-2005
+      - CVE-2026-2006
+      - CVE-2026-2007
 - pkg:
     name: postgresql18
     secfixes:
       18.1-r0:
       - CVE-2025-12817
       - CVE-2025-12818
+      18.2-r0:
+      - CVE-2026-2003
+      - CVE-2026-2004
+      - CVE-2026-2005
+      - CVE-2026-2006
+      - CVE-2026-2007
 - pkg:
     name: ppp
     secfixes:

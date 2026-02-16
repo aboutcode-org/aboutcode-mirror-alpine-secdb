@@ -587,6 +587,8 @@ packages:
       - CVE-2022-2481
       116.0.5845.187-r0:
       - CVE-2023-4863
+      144.0.7559.132-r1:
+      - CVE-2026-2441
 - pkg:
     name: cjose
     secfixes:
@@ -5972,6 +5974,12 @@ packages:
       16.11-r0:
       - CVE-2025-12817
       - CVE-2025-12818
+      16.12-r0:
+      - CVE-2026-2003
+      - CVE-2026-2004
+      - CVE-2026-2005
+      - CVE-2026-2006
+      - CVE-2026-2007
 - pkg:
     name: postsrsd
     secfixes:

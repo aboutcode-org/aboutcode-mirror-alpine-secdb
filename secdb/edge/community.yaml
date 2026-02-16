@@ -3454,6 +3454,8 @@ packages:
       - CVE-2022-41946
       42.6.2-r0:
       - CVE-2024-1597
+      42.7.9-r0:
+      - CVE-2025-49146
 - pkg:
     name: jbig2enc
     secfixes:
@@ -6112,6 +6114,12 @@ packages:
       16.11-r0:
       - CVE-2025-12817
       - CVE-2025-12818
+      16.12-r0:
+      - CVE-2026-2003
+      - CVE-2026-2004
+      - CVE-2026-2005
+      - CVE-2026-2006
+      - CVE-2026-2007
 - pkg:
     name: postsrsd
     secfixes:
