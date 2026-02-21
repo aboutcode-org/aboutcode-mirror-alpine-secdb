@@ -965,6 +965,8 @@ packages:
       - CVE-2025-55248
       - CVE-2025-55315
       - CVE-2025-55247
+      8.0.24-r0:
+      - CVE-2026-21218
 - pkg:
     name: dotnet9-runtime
     secfixes:
@@ -986,6 +988,8 @@ packages:
       - CVE-2025-55248
       - CVE-2025-55315
       - CVE-2025-55247
+      9.0.13-r0:
+      - CVE-2026-21218
 - pkg:
     name: e2guardian
     secfixes:
