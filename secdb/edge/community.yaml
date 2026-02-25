@@ -6410,6 +6410,11 @@ packages:
       2.0.3-r0:
       - CVE-2022-34749
 - pkg:
+    name: py3-nltk
+    secfixes:
+      3.9.3-r0:
+      - CVE-2025-14009
+- pkg:
     name: py3-paramiko
     secfixes:
       2.4.1-r0:
