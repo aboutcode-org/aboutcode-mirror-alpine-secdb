@@ -593,6 +593,10 @@ packages:
       - CVE-2026-2648
       - CVE-2026-2649
       - CVE-2026-2650
+      144.0.7559.132-r3:
+      - CVE-2026-3061
+      - CVE-2026-3062
+      - CVE-2026-3063
 - pkg:
     name: cjose
     secfixes:
@@ -7213,6 +7217,9 @@ packages:
       - CVE-2026-2317
       - CVE-2026-2319
       - CVE-2026-2320
+      6.10.1-r7:
+      - CVE-2026-2648
+      - CVE-2026-2649
 - pkg:
     name: quassel
     secfixes:
