@@ -798,6 +798,8 @@ packages:
       - CVE-2020-4067
       4.5.2-r0:
       - CVE-2020-26262
+      4.9.0-r0:
+      - CVE-2026-27624
 - pkg:
     name: cpio
     secfixes:
