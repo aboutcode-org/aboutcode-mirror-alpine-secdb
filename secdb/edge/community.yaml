@@ -4417,13 +4417,6 @@ packages:
       - CVE-2021-3594
       - CVE-2021-3595
 - pkg:
-    name: libsoup
-    secfixes:
-      2.58.2-r0:
-      - CVE-2017-2885
-      2.68.2-r0:
-      - CVE-2019-17266
-- pkg:
     name: libspiro
     secfixes:
       20200505-r0:
