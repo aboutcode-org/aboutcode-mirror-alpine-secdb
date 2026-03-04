@@ -9091,6 +9091,8 @@ packages:
       - CVE-2022-39291
       1.36.33-r0:
       - CVE-2023-26035
+      1.38.1-r0:
+      - CVE-2026-27470
 - pkg:
     name: zziplib
     secfixes:
