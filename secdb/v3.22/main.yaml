@@ -3402,6 +3402,11 @@ packages:
       1.26.20-r1:
       - CVE-2026-21441
 - pkg:
+    name: py3-wheel
+    secfixes:
+      0.46.3-r0:
+      - CVE-2026-24049
+- pkg:
     name: py3-yaml
     secfixes:
       5.3.1-r0:
