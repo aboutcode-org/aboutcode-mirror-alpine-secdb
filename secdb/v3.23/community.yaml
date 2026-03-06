@@ -6298,6 +6298,9 @@ packages:
       - CVE-2026-1285
       - CVE-2026-1287
       - CVE-2026-1312
+      4.2.29-r0:
+      - CVE-2026-25673
+      - CVE-2026-25674
 - pkg:
     name: py3-ecdsa
     secfixes:
