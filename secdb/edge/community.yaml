@@ -7580,11 +7580,6 @@ packages:
       - CVE-2022-31650
       - CVE-2022-31651
 - pkg:
-    name: sphinx
-    secfixes:
-      2.2.11-r7:
-      - CVE-2020-29059
-- pkg:
     name: stb
     secfixes:
       0_git20231012-r0:
