@@ -3287,6 +3287,9 @@ packages:
       - CVE-2026-2005
       - CVE-2026-2006
       - CVE-2026-2007
+      16.13-r0:
+      - CVE-2026-2006
+      - CVE-2026-2007
 - pkg:
     name: ppp
     secfixes:

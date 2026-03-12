@@ -3171,6 +3171,9 @@ packages:
       - CVE-2026-2005
       - CVE-2026-2006
       - CVE-2026-2007
+      17.9-r0:
+      - CVE-2026-2006
+      - CVE-2026-2007
 - pkg:
     name: postgresql18
     secfixes:
