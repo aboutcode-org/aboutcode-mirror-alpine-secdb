@@ -996,6 +996,10 @@ packages:
     secfixes:
       10.0.3-r0:
       - CVE-2026-21218
+      10.0.4-r0:
+      - CVE-2026-26127
+      - CVE-2026-26130
+      - CVE-2026-26131
 - pkg:
     name: dotnet8-runtime
     secfixes:

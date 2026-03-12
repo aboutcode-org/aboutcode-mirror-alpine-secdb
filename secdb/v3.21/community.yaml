@@ -5702,6 +5702,12 @@ packages:
       - CVE-2025-1094
       15.13-r0:
       - CVE-2025-4207
+      15.17-r0:
+      - CVE-2026-2006
+      - CVE-2026-2007
+      - CVE-2025-8713
+      - CVE-2025-8714
+      - CVE-2025-8715
 - pkg:
     name: postsrsd
     secfixes:
