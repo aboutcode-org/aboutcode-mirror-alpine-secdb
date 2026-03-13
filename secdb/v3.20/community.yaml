@@ -1065,6 +1065,8 @@ packages:
       - CVE-2025-55247
       8.0.24-r0:
       - CVE-2026-21218
+      8.0.25-r0:
+      - CVE-2026-26130
 - pkg:
     name: drupal7
     secfixes:
