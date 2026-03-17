@@ -4815,6 +4815,9 @@ packages:
       4.19.4-r1:
       - CVE-2025-58150 XSA-477
       - CVE-2026-23553 XSA-479
+      4.19.4-r2:
+      - CVE-2026-23554 XSA-480
+      - CVE-2026-23555 XSA-481
 - pkg:
     name: xkbcomp
     secfixes:
