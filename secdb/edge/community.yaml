@@ -7118,6 +7118,8 @@ packages:
       - CVE-2026-3940
       - CVE-2026-3941
       - CVE-2026-3942
+      6.10.2-r9:
+      - CVE-2026-4441
 - pkg:
     name: quassel
     secfixes:
@@ -8445,6 +8447,8 @@ packages:
       - CVE-2026-28422
       9.2.0140-r0:
       - CVE-2026-32249
+      9.2.0219-r0:
+      - CVE-2026-33412
 - pkg:
     name: vips
     secfixes:
