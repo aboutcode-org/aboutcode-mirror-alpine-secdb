@@ -6651,7 +6651,7 @@ packages:
     name: py3-treq
     secfixes:
       22.1.0-r0:
-      - GHSA-fhpf-pp6p-55qc
+      - CVE-2022-23607
 - pkg:
     name: py3-twisted
     secfixes:
