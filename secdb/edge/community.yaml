@@ -6609,6 +6609,11 @@ packages:
       12.1.1-r0:
       - CVE-2026-25990
 - pkg:
+    name: py3-pydicom
+    secfixes:
+      3.0.2-r0:
+      - CVE-2026-32711
+- pkg:
     name: py3-pynacl
     secfixes:
       1.6.2-r0:
