@@ -3643,6 +3643,8 @@ packages:
       - CVE-2022-46176
       1.71.1-r0:
       - CVE-2023-38497
+      1.91.1-r1:
+      - CVE-2026-33056
 - pkg:
     name: samba
     secfixes:
