@@ -2400,6 +2400,11 @@ packages:
       - CVE-2019-12211
       - CVE-2019-12213
 - pkg:
+    name: freeipmi
+    secfixes:
+      1.6.17-r0:
+      - CVE-2026-33554
+- pkg:
     name: freerdp
     secfixes:
       2.0.0-r0:
