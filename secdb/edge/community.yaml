@@ -864,6 +864,8 @@ packages:
       - CVE-2022-27650
       1.20-r0:
       - CVE-2025-24965
+      1.27-r0:
+      - CVE-2026-30892
 - pkg:
     name: csync2
     secfixes:
