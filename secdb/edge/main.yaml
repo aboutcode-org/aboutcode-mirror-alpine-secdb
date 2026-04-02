@@ -901,6 +901,15 @@ packages:
       - CVE-2024-23185
       2.4.2-r0:
       - CVE-2025-30189
+      2.4.3-r0:
+      - CVE-2025-59028
+      - CVE-2025-59031
+      - CVE-2026-24031
+      - CVE-2026-27855
+      - CVE-2026-27856
+      - CVE-2026-27857
+      - CVE-2026-27859
+      - CVE-2026-27860
 - pkg:
     name: dpkg
     secfixes:
@@ -1826,6 +1835,9 @@ packages:
       - CVE-2026-22801
       1.6.55-r0:
       - CVE-2026-25646
+      1.6.56-r0:
+      - CVE-2026-33416
+      - CVE-2026-33636
 - pkg:
     name: libseccomp
     secfixes:
@@ -2323,6 +2335,10 @@ packages:
       3.6.5-r0:
       - CVE-2025-54764
       - CVE-2025-59438
+      3.6.6-r0:
+      - CVE-2026-25833
+      - CVE-2026-25834
+      - CVE-2026-25835
 - pkg:
     name: memcached
     secfixes:
@@ -2478,6 +2494,13 @@ packages:
       1.28.2-r0:
       - CVE-2025-53859
       - CVE-2026-1642
+      1.28.3-r0:
+      - CVE-2026-27654
+      - CVE-2026-27784
+      - CVE-2026-32647
+      - CVE-2026-27651
+      - CVE-2026-28753
+      - CVE-2026-28755
 - pkg:
     name: ngircd
     secfixes:
@@ -3028,6 +3051,11 @@ packages:
       "2.1900":
       - CVE-2025-40918
 - pkg:
+    name: perl-compress-raw-zlib
+    secfixes:
+      2.222-r0:
+      - CVE-2026-3381
+- pkg:
     name: perl-convert-asn1
     secfixes:
       0.29-r0:
@@ -3106,6 +3134,8 @@ packages:
       - CVE-2023-47038
       5.40.1-r1:
       - CVE-2024-56406
+      5.42.2-r0:
+      - CVE-2026-4176
 - pkg:
     name: pgpool
     secfixes:
@@ -4200,6 +4230,10 @@ packages:
       - CVE-2025-46817
       - CVE-2025-46818
       - CVE-2025-46819
+      9.0.3-r0:
+      - CVE-2025-67733
+      - CVE-2026-21863
+      - CVE-2026-27623
 - pkg:
     name: varnish
     secfixes:
