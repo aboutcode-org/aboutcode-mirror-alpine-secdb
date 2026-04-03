@@ -3182,6 +3182,8 @@ packages:
 - pkg:
     name: perl
     secfixes:
+      "0":
+      - CVE-2026-4167
       5.26.1-r0:
       - CVE-2017-12837
       - CVE-2017-12883
