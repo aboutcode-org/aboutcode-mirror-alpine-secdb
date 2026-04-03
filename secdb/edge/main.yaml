@@ -2452,6 +2452,8 @@ packages:
       - CVE-2020-11080
       1.57.0-r0:
       - CVE-2023-44487
+      1.68.1:
+      - CVE-2026-27135
 - pkg:
     name: nginx
     secfixes:
