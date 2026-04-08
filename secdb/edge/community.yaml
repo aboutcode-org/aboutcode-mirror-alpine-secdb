@@ -2399,6 +2399,9 @@ packages:
       - CVE-2024-32462
       1.14.10-r0:
       - CVE-2024-42472
+      1.16.4-r0:
+      - CVE-2026-34078
+      - CVE-2026-34079
 - pkg:
     name: flux
     secfixes:
