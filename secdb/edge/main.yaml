@@ -3316,6 +3316,9 @@ packages:
       - CVE-2023-38325
       46.0.5-r0:
       - CVE-2026-26007
+      46.0.7-r0:
+      - CVE-2026-34073
+      - CVE-2026-39892
 - pkg:
     name: py3-idna
     secfixes:
