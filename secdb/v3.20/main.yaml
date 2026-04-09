@@ -1644,6 +1644,8 @@ packages:
     secfixes:
       5.1.4-r0:
       - CVE-2018-14767
+      5.8.8-r0:
+      - CVE-2026-39863
 - pkg:
     name: kea
     secfixes:
