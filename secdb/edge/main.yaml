@@ -1675,6 +1675,11 @@ packages:
       0.10.0-r0:
       - CVE-2019-20367
 - pkg:
+    name: libcap
+    secfixes:
+      2.78-r0:
+      - CVE-2026-4878
+- pkg:
     name: libde265
     secfixes:
       1.0.8-r2:
@@ -1845,6 +1850,8 @@ packages:
       1.6.56-r0:
       - CVE-2026-33416
       - CVE-2026-33636
+      1.6.57-r0:
+      - CVE-2026-34757
 - pkg:
     name: libseccomp
     secfixes:
@@ -4223,6 +4230,8 @@ packages:
       - CVE-2022-0563
       2.40-r0:
       - CVE-2024-28085
+      2.41.4-r0:
+      - CVE-2026-27456
 - pkg:
     name: uwsgi
     secfixes:
