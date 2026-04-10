@@ -1923,6 +1923,8 @@ packages:
       1.6.56-r0:
       - CVE-2026-33416
       - CVE-2026-33636
+      1.6.57-r0:
+      - CVE-2026-34757
 - pkg:
     name: libretls
     secfixes:
@@ -2488,6 +2490,8 @@ packages:
       - CVE-2020-28928
       1.2.5-r10:
       - CVE-2025-26519
+      1.2.5-r12:
+      - CVE-2026-40200
 - pkg:
     name: ncurses
     secfixes:
