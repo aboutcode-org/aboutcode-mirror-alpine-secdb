@@ -2364,6 +2364,7 @@ packages:
       - CVE-2025-26519
       1.2.4_git20230717-r6:
       - CVE-2026-40200
+      - CVE-2026-6042
 - pkg:
     name: ncurses
     secfixes:
