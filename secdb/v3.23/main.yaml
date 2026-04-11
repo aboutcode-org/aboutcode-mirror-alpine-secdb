@@ -1766,6 +1766,11 @@ packages:
       0.10.0-r0:
       - CVE-2019-20367
 - pkg:
+    name: libcap
+    secfixes:
+      2.78-r0:
+      - CVE-2026-4878
+- pkg:
     name: libde265
     secfixes:
       1.0.8-r2:
