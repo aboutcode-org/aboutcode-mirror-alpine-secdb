@@ -2546,6 +2546,8 @@ packages:
       - CVE-2015-8100
       - CVE-2022-44792
       - CVE-2022-44793
+      5.9.5.2-r0:
+      - CVE-2025-68615
 - pkg:
     name: nettle
     secfixes:

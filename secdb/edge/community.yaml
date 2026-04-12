@@ -4021,6 +4021,11 @@ packages:
       - CVE-2020-35535
       0.21.1-r2:
       - CVE-2023-1729
+      0.22.1-r0:
+      - CVE-2026-20889
+      - CVE-2026-20911
+      - CVE-2026-21413
+      - CVE-2026-24660
 - pkg:
     name: libreoffice
     secfixes:
@@ -4709,6 +4714,8 @@ packages:
     secfixes:
       0.6.3-r0:
       - CVE-2023-27582
+      0.9.3-r0:
+      - CVE-2026-40193
 - pkg:
     name: mbedtls2
     secfixes:
