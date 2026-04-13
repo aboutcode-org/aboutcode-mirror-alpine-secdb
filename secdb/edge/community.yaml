@@ -8364,6 +8364,13 @@ packages:
       0.4.7-r0:
       - CVE-2021-29136
 - pkg:
+    name: unicorn
+    secfixes:
+      2.0.1-r0:
+      - CVE-2022-29693
+      - CVE-2022-29694
+      - CVE-2022-29695
+- pkg:
     name: upx
     secfixes:
       3.96-r0:
