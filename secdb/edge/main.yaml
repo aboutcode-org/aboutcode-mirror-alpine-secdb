@@ -269,6 +269,8 @@ packages:
       - CVE-2025-68468
       - CVE-2025-68471
       - CVE-2026-24401
+      0.8-r26:
+      - CVE-2026-34933
 - pkg:
     name: axel
     secfixes:
