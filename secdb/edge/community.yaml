@@ -6193,6 +6193,8 @@ packages:
 - pkg:
     name: podman
     secfixes:
+      "0":
+      - CVE-2026-33414
       1.8.1-r0:
       - CVE-2020-1726
       2.0.5-r0:
