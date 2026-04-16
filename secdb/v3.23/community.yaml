@@ -1067,6 +1067,11 @@ packages:
       - CVE-2026-21218
       8.0.25-r0:
       - CVE-2026-26130
+      8.0.26-r0:
+      - CVE-2026-26171
+      - CVE-2026-32202
+      - CVE-2026-33116
+      - CVE-2026-32178
 - pkg:
     name: dotnet9-runtime
     secfixes:
@@ -1092,6 +1097,11 @@ packages:
       9.0.14-r0:
       - CVE-2026-26127
       - CVE-2026-26130
+      9.0.15-r0:
+      - CVE-2026-26171
+      - CVE-2026-32202
+      - CVE-2026-33116
+      - CVE-2026-32178
 - pkg:
     name: e2guardian
     secfixes:
