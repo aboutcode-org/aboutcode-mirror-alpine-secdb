@@ -2395,6 +2395,8 @@ packages:
       - CVE-2024-21096
       11.4.5-r0:
       - CVE-2025-21490
+      11.4.10-r0:
+      - CVE-2026-3494
 - pkg:
     name: mbedtls
     secfixes:
