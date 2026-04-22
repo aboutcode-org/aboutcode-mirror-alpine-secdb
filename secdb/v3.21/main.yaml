@@ -3540,6 +3540,8 @@ packages:
       - CVE-2024-12747
       3.4.1-r1:
       - CVE-2025-10158
+      3.4.1-r2:
+      - CVE-2026-41035
 - pkg:
     name: rsyslog
     secfixes:
