@@ -6058,6 +6058,13 @@ packages:
       - CVE-2021-36754
       4.6.1-r0:
       - CVE-2022-27227
+      5.0.4-r0:
+      - CVE-2026-33257
+      - CVE-2026-33260
+      - CVE-2026-33611
+      - CVE-2026-33610
+      - CVE-2026-33609
+      - CVE-2026-33608
 - pkg:
     name: perl-app-cpanminus
     secfixes:
