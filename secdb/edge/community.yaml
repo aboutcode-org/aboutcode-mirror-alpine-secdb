@@ -7707,6 +7707,8 @@ packages:
     secfixes:
       2.8.0-r0:
       - CVE-2021-32740
+      2.9.0-r0:
+      - CVE-2026-35611
 - pkg:
     name: ruby-nokogiri
     secfixes:
