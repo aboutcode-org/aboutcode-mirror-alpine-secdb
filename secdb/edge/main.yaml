@@ -3152,6 +3152,11 @@ packages:
       - CVE-2026-40198
       - CVE-2026-40199
 - pkg:
+    name: perl-yaml-syck
+    secfixes:
+      1.45-r0:
+      - CVE-2026-4177
+- pkg:
     name: perl
     secfixes:
       5.26.1-r0:
