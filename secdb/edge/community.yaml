@@ -6519,6 +6519,8 @@ packages:
       - CVE-2021-21236
       2.7.0-r0:
       - CVE-2023-27586
+      2.9.0-r0:
+      - CVE-2026-31899
 - pkg:
     name: py3-dask
     secfixes:
@@ -6840,6 +6842,9 @@ packages:
       5.4.0-r0:
       - CVE-2022-31116
       - CVE-2022-31117
+      5.12.0-r0:
+      - CVE-2026-32874
+      - CVE-2026-32875
 - pkg:
     name: py3-waitress
     secfixes:
