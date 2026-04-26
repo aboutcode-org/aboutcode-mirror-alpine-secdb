@@ -1141,6 +1141,11 @@ packages:
       5.4.5r-r0:
       - CVE-2021-44273
 - pkg:
+    name: editorconfig
+    secfixes:
+      0.12.11-r0:
+      - CVE-2026-40489
+- pkg:
     name: element-web
     secfixes:
       1.8.4-r0:
