@@ -1036,6 +1036,8 @@ packages:
       - CVE-2026-32776
       - CVE-2026-32777
       - CVE-2026-32778
+      2.8.0-r0:
+      - CVE-2026-41080
 - pkg:
     name: f2fs-tools
     secfixes:
@@ -3140,6 +3142,8 @@ packages:
     secfixes:
       0.079-r0:
       - CVE-2019-17362
+      0.088-r0:
+      - CVE-2026-41564
 - pkg:
     name: perl-dbi
     secfixes:
@@ -3255,6 +3259,18 @@ packages:
       - CVE-2023-38703
       2.16.0-r0:
       - CVE-2025-65102
+      2.17.0-r0:
+      - CVE-2026-25994
+      - CVE-2026-26203
+      - CVE-2026-26967
+      - CVE-2026-28799
+      - CVE-2026-29068
+      - CVE-2026-32942
+      - CVE-2026-32945
+      - CVE-2026-33069
+      - CVE-2026-34235
+      - CVE-2026-40614
+      - CVE-2026-40892
 - pkg:
     name: pkgconf
     secfixes:

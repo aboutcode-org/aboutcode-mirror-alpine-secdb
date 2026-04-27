@@ -5991,6 +5991,8 @@ packages:
     secfixes:
       1.16.1-r0:
       - CVE-2021-3935
+      1.25.1-r0:
+      - CVE-2025-12819
 - pkg:
     name: php83
     secfixes:
