@@ -3045,6 +3045,9 @@ packages:
       - CVE-2025-2704
       2.6.16-r0:
       - CVE-2025-13086
+      2.6.20-r0:
+      - CVE-2026-35058
+      - CVE-2026-40215
 - pkg:
     name: opus
     secfixes:

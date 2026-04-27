@@ -6707,6 +6707,13 @@ packages:
       3.9.3-r0:
       - CVE-2025-14009
 - pkg:
+    name: py3-openssl
+    secfixes:
+      26.1.0-r0:
+      - CVE-2026-27448
+      - CVE-2026-27459
+      - CVE-2026-40475
+- pkg:
     name: py3-paramiko
     secfixes:
       2.4.1-r0:
@@ -7423,6 +7430,9 @@ packages:
       - CVE-2026-5894
       - CVE-2026-5913
       - CVE-2026-6363
+      6.11.0-r6:
+      - CVE-2026-5911
+      - CVE-2026-6299
 - pkg:
     name: quassel
     secfixes:

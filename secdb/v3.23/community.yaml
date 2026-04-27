@@ -6546,6 +6546,13 @@ packages:
       2.0.3-r0:
       - CVE-2022-34749
 - pkg:
+    name: py3-openssl
+    secfixes:
+      26.1.0-r0:
+      - CVE-2026-27448
+      - CVE-2026-27459
+      - CVE-2026-40475
+- pkg:
     name: py3-paramiko
     secfixes:
       2.4.1-r0:
