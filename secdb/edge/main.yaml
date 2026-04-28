@@ -3424,6 +3424,8 @@ packages:
       - CVE-2021-43818
       4.9.2-r0:
       - CVE-2022-2309
+      6.1.0-r0:
+      - CVE-2026-41066
 - pkg:
     name: py3-mako
     secfixes:

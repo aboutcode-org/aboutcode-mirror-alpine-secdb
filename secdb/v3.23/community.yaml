@@ -1179,6 +1179,18 @@ packages:
       2.06-r0:
       - CVE-2022-23850
 - pkg:
+    name: etcd
+    secfixes:
+      3.6.8-r0:
+      - CVE-2025-47914
+      - CVE-2025-58181
+      - CVE-2025-61726
+      - CVE-2025-61731
+      - CVE-2025-61732
+      3.6.10-r0:
+      - CVE-2026-33343
+      - CVE-2026-33413
+- pkg:
     name: evince
     secfixes:
       3.24.0-r2:
@@ -3818,6 +3830,10 @@ packages:
       0.6.23-r0:
       - CVE-2020-0198
       - CVE-2020-0452
+      0.6.26-r0:
+      - CVE-2026-32775
+      - CVE-2026-40385
+      - CVE-2026-40386
 - pkg:
     name: libgit2
     secfixes:
@@ -6349,6 +6365,17 @@ packages:
       - CVE-2025-69228
       - CVE-2025-69229
       - CVE-2025-69230
+      3.13.5-r0:
+      - CVE-2026-22815
+      - CVE-2026-34513
+      - CVE-2026-34514
+      - CVE-2026-34515
+      - CVE-2026-34516
+      - CVE-2026-34517
+      - CVE-2026-34518
+      - CVE-2026-34519
+      - CVE-2026-34520
+      - CVE-2026-34525
 - pkg:
     name: py3-asyncssh
     secfixes:
@@ -6690,6 +6717,9 @@ packages:
       5.4.0-r0:
       - CVE-2022-31116
       - CVE-2022-31117
+      5.12.0-r0:
+      - CVE-2026-32874
+      - CVE-2026-32875
 - pkg:
     name: py3-waitress
     secfixes:
@@ -9056,6 +9086,10 @@ packages:
       - CVE-2024-4855
       4.4.7-r0:
       - CVE-2025-5601
+      4.6.4-r0:
+      - CVE-2026-3201
+      - CVE-2026-3202
+      - CVE-2026-3203
 - pkg:
     name: wolfssl
     secfixes:

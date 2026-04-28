@@ -594,6 +594,14 @@ packages:
       2.4.16-r0:
       - CVE-2025-61915
       - CVE-2025-58436
+      2.4.18-r0:
+      - CVE-2026-27447
+      - CVE-2026-34978
+      - CVE-2026-34979
+      - CVE-2026-34980
+      - CVE-2026-34990
+      - CVE-2026-39314
+      - CVE-2026-39316
 - pkg:
     name: curl
     secfixes:
@@ -1722,6 +1730,8 @@ packages:
       - CVE-2016-10165
       2.9-r1:
       - CVE-2018-16435
+      2.19-r0:
+      - CVE-2026-41254
 - pkg:
     name: ldns
     secfixes:
@@ -2575,6 +2585,8 @@ packages:
       - CVE-2020-11080
       1.57.0-r0:
       - CVE-2023-44487
+      1.68.1:
+      - CVE-2026-27135
 - pkg:
     name: nginx
     secfixes:
@@ -2629,6 +2641,11 @@ packages:
     secfixes:
       25-r1:
       - CVE-2020-14148
+- pkg:
+    name: ngtcp2
+    secfixes:
+      1.22.1-r0:
+      - CVE-2026-40170
 - pkg:
     name: nmap
     secfixes:
@@ -3096,6 +3113,7 @@ packages:
       - CVE-2020-7224
       - CVE-2020-27569
       - CVE-2024-4877
+      - CVE-2025-13751
       2.4.6-r0:
       - CVE-2018-9336
       2.4.9-r0:
@@ -3114,6 +3132,9 @@ packages:
       - CVE-2025-2704
       2.6.16-r0:
       - CVE-2025-13086
+      2.6.20-r0:
+      - CVE-2026-35058
+      - CVE-2026-40215
 - pkg:
     name: opus
     secfixes:
@@ -3483,6 +3504,8 @@ packages:
       - CVE-2024-35195
       2.32.4-r0:
       - CVE-2024-47081
+      2.33.1-r0:
+      - CVE-2026-25645
 - pkg:
     name: py3-setuptools
     secfixes:
@@ -5038,6 +5061,8 @@ packages:
       - CVE-2024-3094
       5.8.1-r0:
       - CVE-2025-31115
+      5.8.3-r0:
+      - CVE-2026-34743
 - pkg:
     name: yajl
     secfixes:
