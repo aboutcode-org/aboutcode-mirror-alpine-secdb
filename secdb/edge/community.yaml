@@ -3913,6 +3913,11 @@ packages:
       - CVE-2021-30499
       - CVE-2021-3410
 - pkg:
+    name: libcdio
+    secfixes:
+      2.3.0-r0:
+      - CVE-2024-36600
+- pkg:
     name: libcue
     secfixes:
       2.2.1-r2:

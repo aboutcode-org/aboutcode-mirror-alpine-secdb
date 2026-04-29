@@ -2844,6 +2844,8 @@ packages:
       - CVE-2022-30789
       2022.10.3-r0:
       - CVE-2022-40284
+      2026.2.25-r0:
+      - CVE-2026-40706
 - pkg:
     name: oniguruma
     secfixes:
