@@ -831,6 +831,9 @@ packages:
       - CVE-2020-4067
       4.5.2-r0:
       - CVE-2020-26262
+      4.10.0-r0:
+      - CVE-2026-40613
+      - CVE-2026-27624
 - pkg:
     name: cpio
     secfixes:
@@ -2971,6 +2974,9 @@ packages:
       - CVE-2021-32751
       7.6.1-r0:
       - CVE-2023-26053
+      8.14.4-r0:
+      - CVE-2026-22816
+      - CVE-2026-22865
 - pkg:
     name: grafana
     secfixes:
@@ -6319,6 +6325,10 @@ packages:
       - CVE-2021-29622
       2.40.4-r1:
       - CVE-2022-46146
+      3.5.3-r0:
+      - CVE-2026-42151
+      - CVE-2026-42154
+      - CVE-2026-40179
 - pkg:
     name: prosody
     secfixes:
