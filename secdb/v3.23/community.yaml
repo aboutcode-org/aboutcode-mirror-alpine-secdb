@@ -98,6 +98,11 @@ packages:
     secfixes:
       5.4.3-r0:
       - CVE-2024-40724
+      6.0.4-r0:
+      - CVE-2025-11274
+      - CVE-2025-11275
+      - CVE-2025-11277
+      - CVE-2025-15538
 - pkg:
     name: awstats
     secfixes:
