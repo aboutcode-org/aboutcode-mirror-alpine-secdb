@@ -6563,6 +6563,9 @@ packages:
     secfixes:
       3.1.37-r0:
       - CVE-2023-41040
+      3.1.49-r0:
+      - CVE-2026-42215
+      - CVE-2026-42284
 - pkg:
     name: py3-httplib2
     secfixes:
