@@ -1043,6 +1043,8 @@ packages:
       - CVE-2026-33997
       - CVE-2026-33748
       - CVE-2026-33747
+      29.4.2-r0:
+      - CVE-2026-31431
 - pkg:
     name: doctl
     secfixes:
