@@ -6809,6 +6809,10 @@ packages:
       - CVE-2026-4292
       - CVE-2026-33033
       - CVE-2026-33034
+      5.2.14-r0:
+      - CVE-2026-5766
+      - CVE-2026-35192
+      - CVE-2026-6907
 - pkg:
     name: py3-ecdsa
     secfixes:
@@ -9001,6 +9005,8 @@ packages:
       - CVE-2026-41411
       9.2.0389-r0:
       - CVE-2026-42307
+      9.2.0437-r0:
+      - CVE-2026-44656
 - pkg:
     name: vips
     secfixes:
