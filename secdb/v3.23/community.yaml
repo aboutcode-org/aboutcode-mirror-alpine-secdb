@@ -8340,6 +8340,9 @@ packages:
       - CVE-2025-61672
       1.147.1-r0:
       - CVE-2026-24044
+      1.152.1-r0:
+      - GHSA-8q93-326v-3m7g, CVE pending
+      - GHSA-6qf2-7x63-mm6v, CVE pending
 - pkg:
     name: syncthing
     secfixes:
