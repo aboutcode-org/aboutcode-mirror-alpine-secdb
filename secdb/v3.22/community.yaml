@@ -6064,6 +6064,9 @@ packages:
       - CVE-2021-37601
       0.11.12-r0:
       - CVE-2022-0217
+      0.12.6-r0:
+      - CVE-2026-43506
+      - CVE-2026-43507
 - pkg:
     name: pure-ftpd
     secfixes:
