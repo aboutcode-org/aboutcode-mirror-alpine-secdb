@@ -4380,6 +4380,10 @@ packages:
       - CVE-2025-67733
       - CVE-2026-21863
       - CVE-2026-27623
+      9.0.4-r0:
+      - CVE-2026-23479
+      - CVE-2026-25243
+      - CVE-2026-23631
 - pkg:
     name: varnish
     secfixes:
