@@ -3871,6 +3871,11 @@ packages:
       2.2.7-r0:
       - CVE-2021-44225
 - pkg:
+    name: kissfft
+    secfixes:
+      131.2.0_git20260422-r0:
+      - CVE-2026-41445
+- pkg:
     name: klibc
     secfixes:
       2.0.9-r0:
