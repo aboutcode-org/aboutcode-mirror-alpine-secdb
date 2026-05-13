@@ -2606,6 +2606,11 @@ packages:
       25-r1:
       - CVE-2020-14148
 - pkg:
+    name: ngtcp2
+    secfixes:
+      1.5.0-r1:
+      - CVE-2026-40170
+- pkg:
     name: nmap
     secfixes:
       7.80-r0:
