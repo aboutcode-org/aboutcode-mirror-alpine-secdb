@@ -5005,6 +5005,8 @@ packages:
       4.20.3-r2:
       - CVE-2026-23557 XSA-484
       - CVE-2026-23558 XSA-486
+      4.20.3-r3:
+      - CVE-2025-54518 XSA-490
 - pkg:
     name: xkbcomp
     secfixes:
