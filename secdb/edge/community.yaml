@@ -6243,6 +6243,11 @@ packages:
       1.7045-r0:
       - CVE-2020-16154
 - pkg:
+    name: perl-crypt-argon2
+    secfixes:
+      0.031-r0:
+      - CVE-2026-8463
+- pkg:
     name: perl-email-mime
     secfixes:
       1.954-r0:
@@ -7687,6 +7692,21 @@ packages:
       - CVE-2026-7935
       - CVE-2026-7938
       - CVE-2026-7993
+      6.11.0-r9:
+      - CVE-2026-4775
+      - CVE-2026-6192
+      - CVE-2026-6732
+      - CVE-2026-7916
+      - CVE-2026-7918
+      - CVE-2026-7921
+      - CVE-2026-7924
+      - CVE-2026-7937
+      - CVE-2026-7940
+      - CVE-2026-7942
+      - CVE-2026-7944
+      - CVE-2026-7987
+      - CVE-2026-7988
+      - CVE-2026-7991
 - pkg:
     name: quassel
     secfixes:
