@@ -1068,6 +1068,11 @@ packages:
       - CVE-2026-32178
       10.0.7-r0:
       - CVE-2026-40372
+      10.0.8-r0:
+      - CVE-2026-32177
+      - CVE-2026-35433
+      - CVE-2026-32175
+      - CVE-2026-42899
 - pkg:
     name: dotnet8-runtime
     secfixes:
@@ -1121,6 +1126,11 @@ packages:
       - CVE-2026-32202
       - CVE-2026-33116
       - CVE-2026-32178
+      8.0.27-r0:
+      - CVE-2026-32177
+      - CVE-2026-35433
+      - CVE-2026-32175
+      - CVE-2026-42899
 - pkg:
     name: dotnet9-runtime
     secfixes:
@@ -1151,6 +1161,11 @@ packages:
       - CVE-2026-32202
       - CVE-2026-33116
       - CVE-2026-32178
+      9.0.16-r0:
+      - CVE-2026-32177
+      - CVE-2026-35433
+      - CVE-2026-32175
+      - CVE-2026-42899
 - pkg:
     name: e2guardian
     secfixes:
@@ -4935,6 +4950,8 @@ packages:
       - CVE-2019-12109
       - CVE-2019-12110
       - CVE-2019-12111
+      2.3.10-r0:
+      - CVE-2026-5720
 - pkg:
     name: minizip
     secfixes:
