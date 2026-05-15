@@ -3842,12 +3842,20 @@ packages:
       - CVE-2022-24758
       6.4.12-r0:
       - CVE-2022-29238
+      7.5.6-r0:
+      - CVE-2026-40171
+      - CVE-2026-42557
 - pkg:
     name: jupyter-server
     secfixes:
       2.7.3-r0:
       - CVE-2023-39968
       - CVE-2023-40170
+      2.18.2-r0:
+      - CVE-2025-61669
+      - CVE-2026-35397
+      - CVE-2026-40110
+      - CVE-2026-40934
 - pkg:
     name: k3s
     secfixes:
@@ -4835,6 +4843,8 @@ packages:
       - CVE-2020-27827
       1.0.13-r0:
       - CVE-2021-43612
+      1.0.22-r0:
+      - CVE-2026-46433
 - pkg:
     name: llhttp
     secfixes:
@@ -6610,6 +6620,16 @@ packages:
       16.13-r0:
       - CVE-2026-2006
       - CVE-2026-2007
+      16.14-r0:
+      - CVE-2026-6472
+      - CVE-2026-6473
+      - CVE-2026-6474
+      - CVE-2026-6475
+      - CVE-2026-6477
+      - CVE-2026-6478
+      - CVE-2026-6479
+      - CVE-2026-6637
+      - CVE-2026-6638
 - pkg:
     name: postsrsd
     secfixes:
@@ -8925,6 +8945,9 @@ packages:
       0.9.8-r0:
       - CVE-2024-34402
       - CVE-2024-34403
+      1.0.2-r0:
+      - CVE-2026-44927
+      - CVE-2026-44928
 - pkg:
     name: usbredir
     secfixes:
