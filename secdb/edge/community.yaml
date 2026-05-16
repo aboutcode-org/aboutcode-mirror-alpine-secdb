@@ -126,6 +126,12 @@ packages:
       0.21.0-r0:
       - CVE-2022-24713
 - pkg:
+    name: binaryen
+    secfixes:
+      129-r0:
+      - CVE-2025-14956
+      - CVE-2025-14957
+- pkg:
     name: binutils-cross-embedded
     secfixes:
       2.37-r0:
