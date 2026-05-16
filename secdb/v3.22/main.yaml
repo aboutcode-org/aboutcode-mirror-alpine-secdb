@@ -1654,6 +1654,8 @@ packages:
       20260210-r0:
       - CVE-2024-24853
       - CVE-2025-31648
+      20260512-r0:
+      - CVE-2025-35979
 - pkg:
     name: iperf3
     secfixes:
