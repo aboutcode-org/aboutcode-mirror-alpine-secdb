@@ -2006,6 +2006,8 @@ packages:
       - CVE-2026-33636
       1.6.57-r0:
       - CVE-2026-34757
+      1.6.58-r1:
+      - CVE-2026-40930
 - pkg:
     name: libseccomp
     secfixes:
