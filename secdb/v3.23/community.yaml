@@ -3054,6 +3054,13 @@ packages:
       - CVE-2025-2703
       - CVE-2025-3260
       - CVE-2025-3454
+      12.2.8-r0:
+      - CVE-2026-27876
+      - CVE-2026-27877
+      - CVE-2026-27879
+      - CVE-2026-27880
+      - CVE-2026-28375
+      - CVE-2026-33375
 - pkg:
     name: graphicsmagick
     secfixes:
