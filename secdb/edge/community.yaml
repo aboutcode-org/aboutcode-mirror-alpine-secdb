@@ -1053,6 +1053,10 @@ packages:
       - CVE-2026-31431
       29.4.3-r0:
       - CVE-2026-31431
+      29.5.1-r0:
+      - CVE-2026-41567
+      - CVE-2026-41568
+      - CVE-2026-43206
 - pkg:
     name: doctl
     secfixes:
@@ -3671,6 +3675,8 @@ packages:
       - CVE-2026-40310
       - CVE-2026-40311
       - CVE-2026-40312
+      7.1.2.21-r0:
+      - CVE-2026-42050
 - pkg:
     name: incus-feature
     secfixes:
