@@ -1426,6 +1426,11 @@ packages:
       0.9.36-r0:
       - CVE-2021-29133
 - pkg:
+    name: haveged
+    secfixes:
+      1.9.21-r0:
+      - CVE-2026-41054
+- pkg:
     name: heimdal
     secfixes:
       7.4.0-r0:

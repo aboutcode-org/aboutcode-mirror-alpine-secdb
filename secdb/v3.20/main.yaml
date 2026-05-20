@@ -1464,6 +1464,11 @@ packages:
       0.9.36-r0:
       - CVE-2021-29133
 - pkg:
+    name: haveged
+    secfixes:
+      1.9.21-r0:
+      - CVE-2026-41054
+- pkg:
     name: heimdal
     secfixes:
       7.4.0-r0:
@@ -3348,6 +3353,15 @@ packages:
       15.17-r0:
       - CVE-2026-2006
       - CVE-2026-2007
+      15.18-r0:
+      - CVE-2026-6472
+      - CVE-2026-6473
+      - CVE-2026-6474
+      - CVE-2026-6475
+      - CVE-2026-6477
+      - CVE-2026-6478
+      - CVE-2026-6479
+      - CVE-2026-6637
 - pkg:
     name: postgresql16
     secfixes:
@@ -3384,6 +3398,16 @@ packages:
       16.13-r0:
       - CVE-2026-2006
       - CVE-2026-2007
+      16.14-r0:
+      - CVE-2026-6472
+      - CVE-2026-6473
+      - CVE-2026-6474
+      - CVE-2026-6475
+      - CVE-2026-6477
+      - CVE-2026-6478
+      - CVE-2026-6479
+      - CVE-2026-6637
+      - CVE-2026-6638
 - pkg:
     name: ppp
     secfixes:
