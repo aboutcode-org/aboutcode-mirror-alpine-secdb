@@ -821,6 +821,8 @@ packages:
       - CVE-2025-47290
       2.2.3-r0:
       - CVE-2026-35469
+      2.3.1-r0:
+      - CVE-2026-46680
 - pkg:
     name: coredns
     secfixes:
