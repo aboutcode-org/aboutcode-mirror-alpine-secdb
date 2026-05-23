@@ -6337,6 +6337,11 @@ packages:
       0.66-r0:
       - CVE-2023-7101
 - pkg:
+    name: perl-starlet
+    secfixes:
+      0.32-r0:
+      - CVE-2026-40561
+- pkg:
     name: perl-xml-sig
     secfixes:
       0.68-r0:
