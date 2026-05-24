@@ -283,6 +283,8 @@ packages:
       5.0.7-r0:
       - CVE-2025-67873
       - CVE-2025-68114
+      5.0.8-r0:
+      - CVE-2026-47143
 - pkg:
     name: cargo-modules
     secfixes:
