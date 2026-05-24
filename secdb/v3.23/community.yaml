@@ -104,6 +104,11 @@ packages:
       - CVE-2025-11277
       - CVE-2025-15538
 - pkg:
+    name: atril
+    secfixes:
+      1.28.0-r2:
+      - CVE-2026-46529
+- pkg:
     name: awstats
     secfixes:
       7.6-r2:
@@ -1236,6 +1241,8 @@ packages:
       - CVE-2017-1000083
       3.32.0-r1:
       - CVE-2019-11459
+      48.4-r0:
+      - CVE-2026-46529
 - pkg:
     name: exempi
     secfixes:
