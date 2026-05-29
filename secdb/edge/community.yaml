@@ -5361,6 +5361,8 @@ packages:
       - CVE-2021-46462
       - CVE-2021-46463
       - CVE-2022-25139
+      0.9.9-r0:
+      - CVE-2026-8711
 - pkg:
     name: nodejs-current
     secfixes:
@@ -6442,6 +6444,11 @@ packages:
     secfixes:
       0.32-r0:
       - CVE-2026-40561
+- pkg:
+    name: perl-www-mechanize-cached
+    secfixes:
+      2.00-r0:
+      - CVE-2026-8612
 - pkg:
     name: perl-xml-sig
     secfixes:
