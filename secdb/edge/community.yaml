@@ -3394,6 +3394,13 @@ packages:
       1.26.2-r0:
       - CVE-2025-47219
       - CVE-2025-47183
+      1.26.3-r0:
+      - CVE-2026-39043
+      - CVE-2026-39044
+      - CVE-2026-46469
+      - CVE-2026-46470
+      - CVE-2026-46472
+      - CVE-2026-5056
 - pkg:
     name: gst-plugins-ugly
     secfixes:
@@ -7191,6 +7198,11 @@ packages:
     secfixes:
       0.4.2-r0:
       - CVE-2021-32839
+- pkg:
+    name: py3-starlette
+    secfixes:
+      1.1.0-r0:
+      - CVE-2026-48710
 - pkg:
     name: py3-tornado
     secfixes:
