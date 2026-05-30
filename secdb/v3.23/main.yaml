@@ -3858,6 +3858,9 @@ packages:
       - CVE-2023-38497
       1.91.1-r1:
       - CVE-2026-33056
+      1.91.1-r2:
+      - CVE-2026-5222
+      - CVE-2026-5223
 - pkg:
     name: samba
     secfixes:
