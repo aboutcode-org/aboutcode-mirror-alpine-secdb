@@ -1310,6 +1310,8 @@ packages:
       - CVE-2026-40686
       - CVE-2026-40687
       - CVE-2025-30232
+      4.98.4-r0:
+      - CVE-2026-48840
 - pkg:
     name: exiv2
     secfixes:

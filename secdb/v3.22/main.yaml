@@ -2060,6 +2060,7 @@ packages:
       1.9.0-r1:
       - CVE-2019-17498
       1.11.0-r1:
+      - CVE-2026-7598
       - CVE-2023-48795
 - pkg:
     name: libtasn1
@@ -2447,6 +2448,9 @@ packages:
       - CVE-2026-44171
       - CVE-2026-44172
       - CVE-2026-44173
+      11.4.12-r0:
+      - CVE-2026-48163
+      - CVE-2026-48165
 - pkg:
     name: mbedtls
     secfixes:

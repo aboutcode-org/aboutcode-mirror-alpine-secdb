@@ -2012,6 +2012,8 @@ packages:
       - CVE-2019-17498
       1.11.0-r1:
       - CVE-2023-48795
+      1.11.0-r2:
+      - CVE-2026-7598
 - pkg:
     name: libtasn1
     secfixes:
@@ -2400,6 +2402,9 @@ packages:
       - CVE-2026-44171
       - CVE-2026-44172
       - CVE-2026-44173
+      11.8.8-r0:
+      - CVE-2026-48163
+      - CVE-2026-48165
 - pkg:
     name: mbedtls
     secfixes:
@@ -3681,6 +3686,11 @@ packages:
     secfixes:
       0.14.0-r0:
       - CVE-2023-35789
+- pkg:
+    name: radvd
+    secfixes:
+      2.21-r0:
+      - CVE-2026-48715
 - pkg:
     name: re2c
     secfixes:
