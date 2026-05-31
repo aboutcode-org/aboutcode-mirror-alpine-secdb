@@ -6171,6 +6171,11 @@ packages:
       0.66-r0:
       - CVE-2023-7101
 - pkg:
+    name: perl-www-mechanize-cached
+    secfixes:
+      2.00-r0:
+      - CVE-2026-8612
+- pkg:
     name: perl-xml-sig
     secfixes:
       0.68-r0:

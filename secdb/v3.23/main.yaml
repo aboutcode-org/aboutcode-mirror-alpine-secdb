@@ -2089,7 +2089,7 @@ packages:
       - CVE-2019-17498
       1.11.0-r1:
       - CVE-2023-48795
-      1.11.0-r2:
+      1.11.1-r2:
       - CVE-2026-7598
 - pkg:
     name: libtasn1
@@ -2220,6 +2220,8 @@ packages:
       - CVE-2025-49795
       - CVE-2025-6170
       - CVE-2025-6021
+      2.13.9-r1:
+      - CVE-2026-6732
 - pkg:
     name: libxpm
     secfixes:

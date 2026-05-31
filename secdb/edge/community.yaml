@@ -2870,6 +2870,8 @@ packages:
       - CVE-2021-38561
       3.1.2-r4:
       - CVE-2022-27191
+      3.7.1-r0:
+      - CVE-2025-26625
 - pkg:
     name: gitea
     secfixes:
