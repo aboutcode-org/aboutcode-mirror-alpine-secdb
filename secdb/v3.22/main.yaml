@@ -4070,6 +4070,12 @@ packages:
       6.6-r0:
       - CVE-2023-50269
 - pkg:
+    name: sshfs
+    secfixes:
+      3.7.6-r0:
+      - CVE-2026-47187
+      - CVE-2026-48711
+- pkg:
     name: strongswan
     secfixes:
       5.5.3-r0:
