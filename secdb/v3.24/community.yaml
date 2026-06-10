@@ -11,7 +11,7 @@ archs:
 - x86_64
 reponame: community
 urlprefix: https://dl-cdn.alpinelinux.org/alpine
-distroversion: edge
+distroversion: v3.24
 packages:
 - pkg:
     name: aardvark-dns
