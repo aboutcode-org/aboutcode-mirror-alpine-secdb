@@ -3284,6 +3284,11 @@ packages:
       3.12-r0:
       - CVE-2021-36770
 - pkg:
+    name: perl-gd
+    secfixes:
+      2.86-r0:
+      - CVE-2026-11526
+- pkg:
     name: perl-lwp-protocol-https
     secfixes:
       6.11-r0:
