@@ -5811,6 +5811,8 @@ packages:
       - CVE-2025-9566
       5.7.0-r0:
       - CVE-2025-52881
+      5.8.3-r0:
+      - CVE-2026-44517
 - pkg:
     name: podofo
     secfixes:
