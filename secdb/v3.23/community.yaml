@@ -8463,6 +8463,8 @@ packages:
       - CVE-2021-41190
       1.15.1-r0:
       - CVE-2024-3727
+      1.20.1-r0:
+      - CVE-2026-34986
 - pkg:
     name: sleuthkit
     secfixes:
