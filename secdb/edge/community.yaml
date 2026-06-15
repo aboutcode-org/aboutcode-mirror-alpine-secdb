@@ -4003,6 +4003,8 @@ packages:
       - CVE-2023-5217
       1.14.1-r0:
       - CVE-2024-5197
+      1.16.0-r0:
+      - CVE-2026-1861
 - pkg:
     name: libvterm
     secfixes:
