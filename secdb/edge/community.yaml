@@ -4641,6 +4641,13 @@ packages:
       5.54-r0:
       - CVE-2020-0556
 - pkg:
+    name: ocaml
+    secfixes:
+      "0":
+      - CVE-2026-41083
+      4.14.4-r0:
+      - CVE-2026-34353
+- pkg:
     name: open-vm-tools
     secfixes:
       12.1.0-r0:
