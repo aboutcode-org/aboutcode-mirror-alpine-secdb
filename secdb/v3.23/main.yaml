@@ -3309,6 +3309,11 @@ packages:
       2.222-r0:
       - CVE-2026-3381
 - pkg:
+    name: perl-config-inifiles
+    secfixes:
+      3.002000-r0:
+      - CVE-2026-11527
+- pkg:
     name: perl-convert-asn1
     secfixes:
       0.29-r0:
