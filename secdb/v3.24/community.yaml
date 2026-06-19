@@ -7244,6 +7244,11 @@ packages:
       - CVE-2026-10013
       - CVE-2026-10016
       - CVE-2026-25210
+      6.11.1-r3:
+      - CVE-2026-8001
+      - CVE-2026-9116
+      - CVE-2026-11206
+      - CVE-2026-11645
 - pkg:
     name: quassel
     secfixes:
