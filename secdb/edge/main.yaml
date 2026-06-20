@@ -4595,6 +4595,8 @@ packages:
       - CVE-2025-47905 VSV00016
       7.7.2-r0:
       - CVE-2025-8671 VSV00017
+      9.0.3-r0:
+      - VSV00019
 - pkg:
     name: wget
     secfixes:
