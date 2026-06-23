@@ -2033,6 +2033,9 @@ packages:
       - CVE-2023-48795
       1.11.1-r2:
       - CVE-2026-7598
+      1.11.1-r3:
+      - CVE-2026-55199
+      - CVE-2026-55200
 - pkg:
     name: libtasn1
     secfixes:
