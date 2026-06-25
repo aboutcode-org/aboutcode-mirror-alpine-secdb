@@ -3161,6 +3161,8 @@ packages:
       - CVE-2020-29361
       - CVE-2020-29362
       - CVE-2020-29363
+      0.26.2-r0:
+      - CVE-2026-2100
 - pkg:
     name: pango
     secfixes:

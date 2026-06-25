@@ -2879,6 +2879,11 @@ packages:
     secfixes:
       4.3.4-r0:
       - CVE-2020-28935
+      4.14.3-r0:
+      - CVE-2026-12244
+      - CVE-2026-12245
+      - CVE-2026-12246
+      - CVE-2026-12490
 - pkg:
     name: nss
     secfixes:
