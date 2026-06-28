@@ -1628,6 +1628,8 @@ packages:
       - CVE-2025-59733
       - CVE-2025-59734
       - CVE-2025-59734
+      8.1.2-r0:
+      - CVE-2026-8461
 - pkg:
     name: fig2dev
     secfixes:
