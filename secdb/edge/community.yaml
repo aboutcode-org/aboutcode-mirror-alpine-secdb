@@ -3226,6 +3226,9 @@ packages:
       - CVE-2016-7970
       - CVE-2016-7971
       - CVE-2016-7972
+      0.17.5-r0:
+      - GHSA-pjjp-65r7-ppgm
+      - GHSA-5gf7-wjfm-vmvm
 - pkg:
     name: libcaca
     secfixes:
