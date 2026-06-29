@@ -3404,6 +3404,8 @@ packages:
 - pkg:
     name: perl
     secfixes:
+      "0":
+      - CVE-2026-4176
       5.26.1-r0:
       - CVE-2017-12837
       - CVE-2017-12883
@@ -3428,8 +3430,6 @@ packages:
       - CVE-2023-47038
       5.40.1-r1:
       - CVE-2024-56406
-      5.42.2-r0:
-      - CVE-2026-4176
 - pkg:
     name: pgpool
     secfixes:

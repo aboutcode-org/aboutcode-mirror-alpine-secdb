@@ -337,6 +337,11 @@ packages:
       0.21.1-r0:
       - CVE-2024-12224
 - pkg:
+    name: ceph19
+    secfixes:
+      19.2.4-r0:
+      - CVE-2024-47866
+- pkg:
     name: cfengine
     secfixes:
       3.12.2-r0:
