@@ -8616,6 +8616,11 @@ packages:
       5.5.0-r0:
       - CVE-2021-44269
 - pkg:
+    name: weasyprint
+    secfixes:
+      69.0-r0:
+      - CVE-2026-49452
+- pkg:
     name: webkit2gtk-6.0
     secfixes:
       2.36.4-r0:
