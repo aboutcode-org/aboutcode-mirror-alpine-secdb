@@ -5721,6 +5721,8 @@ packages:
       - CVE-2026-7261
       - CVE-2026-7262
       - CVE-2026-7568
+      8.3.32-r0:
+      - CVE-2026-12184
 - pkg:
     name: php84
     secfixes:
