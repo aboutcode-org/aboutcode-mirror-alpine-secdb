@@ -51,6 +51,11 @@ packages:
       2.25-r0:
       - CVE-2021-38370
 - pkg:
+    name: ansible-core
+    secfixes:
+      2.21.1-r0:
+      - CVE-2026-11332
+- pkg:
     name: ansible
     secfixes:
       2.10.1-r0:
@@ -760,6 +765,14 @@ packages:
       - CVE-2025-20260
       1.4.4-r0:
       - CVE-2026-20031
+      1.4.5-r0:
+      - CVE-2026-20213
+      - CVE-2026-20214
+      - CVE-2026-20215
+      - CVE-2026-20216
+      - CVE-2026-20217
+      - CVE-2026-20243
+      - CVE-2026-20244
 - pkg:
     name: claws-mail
     secfixes:
