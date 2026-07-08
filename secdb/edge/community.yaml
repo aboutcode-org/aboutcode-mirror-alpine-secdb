@@ -4111,6 +4111,10 @@ packages:
     secfixes:
       2.0.3-r0:
       - CVE-2017-16611
+      2.0.8-r0:
+      - CVE-2026-56001
+      - CVE-2026-56002
+      - CVE-2026-56003
 - pkg:
     name: libzip
     secfixes:
@@ -9087,6 +9091,9 @@ packages:
       - CVE-2026-34001
       - CVE-2026-34002
       - CVE-2026-34003
+      21.1.24-r0:
+      - CVE-2026-55999
+      - CVE-2026-56000
 - pkg:
     name: xpdf
     secfixes:
@@ -9226,6 +9233,9 @@ packages:
       - CVE-2026-34001
       - CVE-2026-34002
       - CVE-2026-34003
+      24.1.13-r0:
+      - CVE-2026-55999
+      - CVE-2026-56000
 - pkg:
     name: yara
     secfixes:
