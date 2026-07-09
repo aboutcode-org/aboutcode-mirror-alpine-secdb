@@ -4748,6 +4748,11 @@ packages:
       4.14.4-r0:
       - CVE-2026-34353
 - pkg:
+    name: opam
+    secfixes:
+      2.5.2-r0:
+      - CVE-2026-57825
+- pkg:
     name: open-vm-tools
     secfixes:
       12.1.0-r0:
