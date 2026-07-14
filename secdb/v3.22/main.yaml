@@ -825,6 +825,8 @@ packages:
       8.14.1-r2:
       - CVE-2025-9086
       - CVE-2025-10148
+      8.14.1-r3:
+      - CVE-2026-5545
 - pkg:
     name: cvs
     secfixes:
