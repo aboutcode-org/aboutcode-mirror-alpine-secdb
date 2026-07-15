@@ -21,6 +21,14 @@ packages:
       1.17.1-r0:
       - CVE-2026-35406
 - pkg:
+    name: adguardhome
+    secfixes:
+      0.107.78-r0:
+      - GHSA-p5f5-3p5g-rfjw
+      - GHSA-4qjf-2hgm-92q6
+      - GHSA-qr92-rwvw-mhgh
+      - GHSA-cccx-2r6r-m9r4
+- pkg:
     name: advancecomp
     secfixes:
       2.1-r2:
