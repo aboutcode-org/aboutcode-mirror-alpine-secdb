@@ -1812,6 +1812,8 @@ packages:
       1.7.0-r1:
       - CVE-2017-1000231
       - CVE-2017-1000232
+      1.9.2-r0:
+      - CVE-2026-10846
 - pkg:
     name: lftp
     secfixes:

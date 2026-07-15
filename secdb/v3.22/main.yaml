@@ -3658,6 +3658,8 @@ packages:
       - CVE-2024-35195
       2.32.4-r0:
       - CVE-2024-47081
+      2.33.1-r0:
+      - CVE-2026-25645
 - pkg:
     name: py3-setuptools
     secfixes:
