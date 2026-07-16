@@ -2369,6 +2369,9 @@ packages:
       - CVE-2026-42504
       - CVE-2026-42507
       - CVE-2026-27145
+      1.26.5-r0:
+      - CVE-2026-39822
+      - CVE-2026-42505
 - pkg:
     name: gradle
     secfixes:
