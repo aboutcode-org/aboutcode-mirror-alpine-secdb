@@ -892,6 +892,8 @@ packages:
       - CVE-2025-24965
       1.27-r0:
       - CVE-2026-30892
+      1.28-r0:
+      - CVE-2026-47766
 - pkg:
     name: csync2
     secfixes:
@@ -6958,6 +6960,13 @@ packages:
     secfixes:
       0.4.2-r0:
       - CVE-2021-32839
+- pkg:
+    name: py3-tornado
+    secfixes:
+      6.5.4-r0:
+      - CVE-2025-67724
+      - CVE-2025-67725
+      - CVE-2025-67726
 - pkg:
     name: py3-tqdm
     secfixes:

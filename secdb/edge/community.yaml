@@ -1356,6 +1356,8 @@ packages:
       3.6.10-r0:
       - CVE-2026-33343
       - CVE-2026-33413
+      3.6.13-r0:
+      - CVE-2026-59818
 - pkg:
     name: evince
     secfixes:
@@ -3528,6 +3530,9 @@ packages:
       - CVE-2026-20911
       - CVE-2026-21413
       - CVE-2026-24660
+      0.22.2-r0:
+      - CVE-2026-20884
+      - CVE-2026-24450
 - pkg:
     name: libreoffice
     secfixes:
@@ -4627,6 +4632,11 @@ packages:
       - CVE-2026-49388
       - CVE-2026-49389
       - CVE-2026-49390
+      4.5.1-r0:
+      - CVE-2026-62318
+      - CVE-2026-62319
+      - CVE-2026-62320
+      - CVE-2026-62321
 - pkg:
     name: netdata
     secfixes:
