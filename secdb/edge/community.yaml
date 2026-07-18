@@ -1905,6 +1905,12 @@ packages:
       2.11.5-r0:
       - CVE-2024-22211
 - pkg:
+    name: freeunit
+    secfixes:
+      1.36.0-r0:
+      - GHSA-g6v8-r577-76jm
+      - GHSA-768w-qrh2-jjvh
+- pkg:
     name: frr
     secfixes:
       8.2.1-r0:
