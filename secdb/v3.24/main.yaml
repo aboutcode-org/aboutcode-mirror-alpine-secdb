@@ -4252,6 +4252,9 @@ packages:
       7.3-r0:
       - CVE-2025-59362
       - CVE-2025-62168
+      7.6-r0:
+      - CVE-2026-50012
+      - CVE-2026-47729
 - pkg:
     name: sshfs
     secfixes:
