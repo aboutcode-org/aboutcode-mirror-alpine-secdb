@@ -3423,12 +3423,29 @@ packages:
       0.088-r0:
       - CVE-2026-41564
 - pkg:
+    name: perl-css-minifier-xs
+    secfixes:
+      0.16-r0:
+      - CVE-2026-13593
+- pkg:
     name: perl-dbi
     secfixes:
       1.643-r0:
       - CVE-2020-14392
       - CVE-2020-14393
       - CVE-2014-10402
+      1.648-r0:
+      - CVE-2026-9698
+      - CVE-2026-10879
+      1.650-r0:
+      - CVE-2026-14739
+      - CVE-2026-14740
+      - CVE-2026-14380
+      1.651-r0:
+      - CVE-2026-15043
+      - CVE-2026-15392
+      - CVE-2026-60081
+      - CVE-2026-60082
 - pkg:
     name: perl-email-address-list
     secfixes:
@@ -3455,6 +3472,12 @@ packages:
       6.0.8-r0:
       - CVE-2026-14741
 - pkg:
+    name: perl-javascript-minifier-xs
+    secfixes:
+      0.16-r0:
+      - CVE-2026-56017
+      - CVE-2026-56018
+- pkg:
     name: perl-lwp-protocol-https
     secfixes:
       6.11-r0:
@@ -3478,6 +3501,16 @@ packages:
     secfixes:
       1.45-r0:
       - CVE-2026-4177
+      1.47-r0:
+      - CVE-2026-13713
+      - CVE-2026-57075
+      - CVE-2026-57076
+      - CVE-2026-57077
+- pkg:
+    name: perl-yaml
+    secfixes:
+      1.320.0-r0:
+      - CVE-2026-63676
 - pkg:
     name: perl
     secfixes:
