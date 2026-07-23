@@ -3391,6 +3391,11 @@ packages:
       "2.1900":
       - CVE-2025-40918
 - pkg:
+    name: perl-cgi-session
+    secfixes:
+      4.49-r0:
+      - CVE-2026-56016
+- pkg:
     name: perl-compress-raw-zlib
     secfixes:
       2.222-r0:
