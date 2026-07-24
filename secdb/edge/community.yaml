@@ -5859,6 +5859,9 @@ packages:
       - CVE-2026-42390
       - CVE-2026-42390
       - CVE-2026-52690
+      5.4.4-r0:
+      - CVE-2026-52686
+      - CVE-2026-52688
 - pkg:
     name: pdns
     secfixes:
