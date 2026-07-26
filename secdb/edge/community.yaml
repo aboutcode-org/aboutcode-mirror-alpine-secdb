@@ -1494,6 +1494,9 @@ packages:
       - CVE-2025-30232
       4.98.4-r0:
       - CVE-2026-48840
+      4.98.5-r0:
+      - CVE-2026-66140
+      - CVE-2026-66141
 - pkg:
     name: exiv2
     secfixes:
@@ -3353,6 +3356,8 @@ packages:
       5.7.1-r0:
       - CVE-2023-50387
       - CVE-2023-50868
+      5.7.7-r0:
+      - CVE-2023-50387
 - pkg:
     name: kodi
     secfixes:

@@ -3385,6 +3385,11 @@ packages:
       0.088-r0:
       - CVE-2026-41564
 - pkg:
+    name: perl-css-minifier-xs
+    secfixes:
+      0.16-r0:
+      - CVE-2026-13593
+- pkg:
     name: perl-dbi
     secfixes:
       1.643-r0:
