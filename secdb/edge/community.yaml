@@ -5942,6 +5942,11 @@ packages:
       2.0000-r0:
       - CVE-2021-29424
 - pkg:
+    name: perl-protocol-http2
+    secfixes:
+      1.13-r0:
+      - CVE-2026-10725
+- pkg:
     name: perl-spreadsheet-parseexcel
     secfixes:
       0.66-r0:
