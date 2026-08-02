@@ -4912,6 +4912,8 @@ packages:
       - CVE-2021-22212
       1.2.2a-r0:
       - CVE-2023-4012
+      1.2.5-r0:
+      - CVE-2026-18321
 - pkg:
     name: obexd-enhanced
     secfixes:
