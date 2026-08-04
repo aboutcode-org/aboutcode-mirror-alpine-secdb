@@ -6004,6 +6004,13 @@ packages:
       2.0000-r0:
       - CVE-2021-29424
 - pkg:
+    name: perl-net-saml2
+    secfixes:
+      0.88-r0:
+      - CVE-2026-18089
+      - CVE-2026-18092
+      - CVE-2026-18108
+- pkg:
     name: perl-protocol-http2
     secfixes:
       1.13-r0:
@@ -6028,6 +6035,10 @@ packages:
     secfixes:
       0.68-r0:
       - CVE-2025-40934
+      0.72-r0:
+      - CVE-2026-9390
+      - CVE-2026-9487
+      - CVE-2026-18568
 - pkg:
     name: pev
     secfixes:
