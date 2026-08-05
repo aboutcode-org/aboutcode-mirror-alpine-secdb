@@ -4196,6 +4196,8 @@ packages:
       - CVE-2026-59849
       - CVE-2026-59850
       - CVE-2026-59851
+      0.12.2-r0:
+      - CVE-2026-59843
 - pkg:
     name: libtommath
     secfixes:
