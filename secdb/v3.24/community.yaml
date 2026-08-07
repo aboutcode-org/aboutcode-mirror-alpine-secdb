@@ -1058,6 +1058,8 @@ packages:
       - CVE-2026-33598
       - CVE-2026-33599
       - CVE-2026-33602
+      2.0.8-r0:
+      - CVE-2026-52682
 - pkg:
     name: docker-cli-compose
     secfixes:
@@ -5822,6 +5824,8 @@ packages:
       5.4.4-r0:
       - CVE-2026-52686
       - CVE-2026-52688
+      5.4.5-r0:
+      - CVE-2026-52682
 - pkg:
     name: pdns
     secfixes:
@@ -5856,6 +5860,8 @@ packages:
       - CVE-2026-42000
       - CVE-2026-41999
       - CVE-2026-42396
+      5.0.7-r0:
+      - CVE-2026-52682
 - pkg:
     name: perl-app-cpanminus
     secfixes:
