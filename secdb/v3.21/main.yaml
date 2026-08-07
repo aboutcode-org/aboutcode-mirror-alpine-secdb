@@ -191,6 +191,12 @@ packages:
     secfixes:
       1.6.3-r0:
       - CVE-2022-25147
+      1.6.4-r0:
+      - CVE-2025-49506
+      - CVE-2026-32327
+      - CVE-2026-34191
+      - CVE-2026-34501
+      - CVE-2026-34502
 - pkg:
     name: apr
     secfixes:
