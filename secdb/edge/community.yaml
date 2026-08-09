@@ -5068,6 +5068,11 @@ packages:
       - CVE-2026-44663
       - CVE-2026-45696
 - pkg:
+    name: openfire
+    secfixes:
+      4.7.5-r0:
+      - CVE-2023-32315
+- pkg:
     name: openh264
     secfixes:
       2.6.0-r0:
