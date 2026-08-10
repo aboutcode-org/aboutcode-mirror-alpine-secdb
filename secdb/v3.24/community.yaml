@@ -6406,6 +6406,12 @@ packages:
       2.9.0-r0:
       - CVE-2026-31899
 - pkg:
+    name: py3-daphne
+    secfixes:
+      4.2.3-r0:
+      - CVE-2026-44545
+      - CVE-2026-44546
+- pkg:
     name: py3-dask
     secfixes:
       2022.2.0-r0:
