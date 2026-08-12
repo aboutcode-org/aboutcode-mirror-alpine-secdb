@@ -2186,6 +2186,9 @@ packages:
       - CVE-2022-32149
       1.21.3-r0:
       - CVE-2023-48795
+      1.27.1-r0:
+      - CVE-2026-60004
+      - CVE-2026-59774
 - pkg:
     name: gitlab-runner
     secfixes:
