@@ -3888,6 +3888,8 @@ packages:
       - CVE-2026-2297
       - CVE-2026-3644
       - CVE-2026-4224
+      3.14.7-r0:
+      - CVE-2026-7210
 - pkg:
     name: quagga
     secfixes:
