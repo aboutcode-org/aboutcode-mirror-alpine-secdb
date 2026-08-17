@@ -1574,6 +1574,11 @@ packages:
       - CVE-2022-23303
       - CVE-2022-23304
 - pkg:
+    name: htop
+    secfixes:
+      3.5.3-r0:
+      - CVE-2024-37676
+- pkg:
     name: hunspell
     secfixes:
       1.7.0-r1:
