@@ -4307,6 +4307,9 @@ packages:
       - CVE-2020-13435
       3.34.1-r0:
       - CVE-2021-20227
+      3.53.4-r0:
+      - CVE-2026-11822
+      - CVE-2026-11824
 - pkg:
     name: squashfs-tools
     secfixes:

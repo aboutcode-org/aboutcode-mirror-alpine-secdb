@@ -5019,6 +5019,11 @@ packages:
       - CVE-2026-46358
       - CVE-2026-46405
 - pkg:
+    name: opencc
+    secfixes:
+      1.2.0-r0:
+      - CVE-2025-15536
+- pkg:
     name: opendkim
     secfixes:
       "0":
