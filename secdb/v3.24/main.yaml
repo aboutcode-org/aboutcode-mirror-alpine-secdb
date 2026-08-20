@@ -1100,6 +1100,8 @@ packages:
 - pkg:
     name: expat
     secfixes:
+      "0":
+      - CVE-2026-72522
       2.2.0-r1:
       - CVE-2017-9233
       2.2.7-r0:

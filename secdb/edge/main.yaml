@@ -1102,6 +1102,8 @@ packages:
 - pkg:
     name: expat
     secfixes:
+      "0":
+      - CVE-2026-72522
       2.2.0-r1:
       - CVE-2017-9233
       2.2.7-r0:
@@ -4024,6 +4026,17 @@ packages:
     secfixes:
       1.1.1-r0:
       - CVE-2017-5495
+- pkg:
+    name: quickjs-ng
+    secfixes:
+      0.10.0-r0:
+      - CVE-2025-46687
+      - CVE-2025-46688
+      0.16.1-r0:
+      - CVE-2026-0821
+      - CVE-2026-0822
+      - CVE-2026-1144
+      - CVE-2026-1145
 - pkg:
     name: rabbitmq-c
     secfixes:
