@@ -636,6 +636,8 @@ packages:
     secfixes:
       3.2.2-r0:
       - CVE-2018-14447
+      3.4-r0:
+      - CVE-2022-40320
 - pkg:
     name: coreutils
     secfixes:
