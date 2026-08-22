@@ -3313,6 +3313,8 @@ packages:
       - CVE-2026-35397
       - CVE-2026-40110
       - CVE-2026-40934
+      2.20.0-r0:
+      - CVE-2026-44727
 - pkg:
     name: k3s
     secfixes:
