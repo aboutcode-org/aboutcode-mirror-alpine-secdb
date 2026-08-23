@@ -3976,6 +3976,17 @@ packages:
       1.1.1-r0:
       - CVE-2017-5495
 - pkg:
+    name: quickjs-ng
+    secfixes:
+      0.10.0-r0:
+      - CVE-2025-46687
+      - CVE-2025-46688
+      0.11.0-r2:
+      - CVE-2026-0821
+      - CVE-2026-0822
+      - CVE-2026-1144
+      - CVE-2026-1145
+- pkg:
     name: rabbitmq-c
     secfixes:
       0.14.0-r0:
