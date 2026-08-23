@@ -3493,6 +3493,11 @@ packages:
     secfixes:
       1.45-r0:
       - CVE-2026-4177
+      1.47-r0:
+      - CVE-2026-13713
+      - CVE-2026-57075
+      - CVE-2026-57076
+      - CVE-2026-57077
 - pkg:
     name: perl-yaml
     secfixes:
