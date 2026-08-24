@@ -6785,6 +6785,8 @@ packages:
       0.13.3-r0:
       - CVE-2019-14859
       - CVE-2019-14853
+      0.19.2-r0:
+      - CVE-2026-33936
 - pkg:
     name: py3-gitpython
     secfixes:
