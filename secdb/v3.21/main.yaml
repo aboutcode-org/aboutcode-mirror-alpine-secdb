@@ -1956,6 +1956,13 @@ packages:
       2.1.5.1-r4:
       - CVE-2023-2804
 - pkg:
+    name: libkcapi
+    secfixes:
+      1.5.1-r0:
+      - CVE-2026-71225
+      - CVE-2026-71226
+      - CVE-2026-71227
+- pkg:
     name: libksba
     secfixes:
       1.6.2-r0:
