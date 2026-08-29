@@ -1313,6 +1313,8 @@ packages:
       - CVE-2021-40633
       5.2.2-r1:
       - CVE-2025-31344
+      5.2.2-r2:
+      - CVE-2026-26740
 - pkg:
     name: git
     secfixes:

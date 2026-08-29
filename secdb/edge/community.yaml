@@ -3108,6 +3108,9 @@ packages:
       - GHSA-m3j6-p3v3-qmjv
       - CVE-2026-62313
       - GHSA-6v6x-387m-rj4w
+      7.4.0-r0:
+      - CVE-2026-81500
+      - CVE-2026-81501
 - pkg:
     name: incus
     secfixes:
