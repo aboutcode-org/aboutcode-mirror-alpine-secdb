@@ -1358,6 +1358,11 @@ packages:
       1.11.30-r0:
       - CVE-2023-30609
 - pkg:
+    name: elixir
+    secfixes:
+      1.19.6-r0:
+      - CVE-2026-75758
+- pkg:
     name: emacs
     secfixes:
       28.2-r3:
