@@ -8243,6 +8243,11 @@ packages:
       0.30.1-r0:
       - CVE-2026-30836
 - pkg:
+    name: sudo-rs
+    secfixes:
+      0.2.15-r0:
+      - GHSA-f42v-x7gq-phc8
+- pkg:
     name: sudo
     secfixes:
       1.8.20_p2-r0:
