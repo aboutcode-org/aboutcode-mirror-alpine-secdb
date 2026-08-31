@@ -5122,6 +5122,22 @@ packages:
       3.4.13-r0:
       - CVE-2026-44663
       - CVE-2026-45696
+      3.4.15-r0:
+      - CVE-2026-59183
+      - CVE-2026-59184
+      - CVE-2026-59186
+      - CVE-2026-59187
+      - CVE-2026-59189
+      - CVE-2026-59981
+      - CVE-2026-59982
+      - CVE-2026-59983
+      - CVE-2026-59984
+      - CVE-2026-59985
+      - CVE-2026-61555
+      - CVE-2026-61703
+      - CVE-2026-62986
+      - CVE-2026-68513
+      - CVE-2026-68514
 - pkg:
     name: openfire
     secfixes:
@@ -8435,6 +8451,11 @@ packages:
       - CVE-2025-66406
       0.30.1-r0:
       - CVE-2026-30836
+- pkg:
+    name: sudo-rs
+    secfixes:
+      0.2.15-r0:
+      - GHSA-f42v-x7gq-phc8
 - pkg:
     name: sudo
     secfixes:
