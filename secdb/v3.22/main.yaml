@@ -503,6 +503,8 @@ packages:
 - pkg:
     name: bubblewrap
     secfixes:
+      "0":
+      - CVE-2026-41163
       0.4.1-r0:
       - CVE-2020-5291
       0.10.0-r0:
