@@ -6831,6 +6831,8 @@ packages:
     secfixes:
       0.19.0-r0:
       - CVE-2021-21240
+      0.32.0-r0:
+      - CVE-2026-59939
 - pkg:
     name: py3-impacket
     secfixes:
