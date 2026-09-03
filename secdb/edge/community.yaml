@@ -6359,6 +6359,8 @@ packages:
       5.8.6-r0:
       - CVE-2026-19730
       - CVE-2026-57231
+      6.1.1-r0:
+      - CVE-2026-17106
 - pkg:
     name: podofo
     secfixes:
