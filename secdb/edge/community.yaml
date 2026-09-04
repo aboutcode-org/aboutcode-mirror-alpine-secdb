@@ -6099,6 +6099,8 @@ packages:
     secfixes:
       1.13-r0:
       - CVE-2026-10725
+      1.14-r0:
+      - CVE-2026-16028
 - pkg:
     name: perl-spreadsheet-parseexcel
     secfixes:
