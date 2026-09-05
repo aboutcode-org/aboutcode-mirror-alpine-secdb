@@ -959,6 +959,14 @@ packages:
       - CVE-2022-42011
       - CVE-2022-42012
 - pkg:
+    name: dhcpcd
+    secfixes:
+      10.5.2-r0:
+      - CVE-2026-56113
+      - CVE-2026-56114
+      - CVE-2026-56116
+      - CVE-2026-56117
+- pkg:
     name: dnsmasq
     secfixes:
       2.78-r0:
@@ -4989,9 +4997,10 @@ packages:
       - CVE-2026-27456
       2.42.3-r0:
       - CVE-2026-76642
-      - CVE-2026-78408
       - CVE-2026-78409
       - CVE-2026-78410
+      2.42.3-r1:
+      - CVE-2026-78408
 - pkg:
     name: uwsgi
     secfixes:
