@@ -852,6 +852,11 @@ packages:
       - GHSA-gjfg-22fp-rrxx
       - GHSA-g6xq-892h-64w3
 - pkg:
+    name: comrak
+    secfixes:
+      0.55.0-r0:
+      - GHSA-xg9p-p4jc-c46g
+- pkg:
     name: connman
     secfixes:
       1.39-r0:
