@@ -1343,6 +1343,12 @@ packages:
       - CVE-2026-62902
       - CVE-2026-62897
       - CVE-2026-62909
+      8.0.31-r0:
+      - CVE-2026-69439
+      - CVE-2026-71328
+      - CVE-2026-69522
+      - CVE-2026-69304
+      - CVE-2026-58649
 - pkg:
     name: dotnet9-runtime
     secfixes:
