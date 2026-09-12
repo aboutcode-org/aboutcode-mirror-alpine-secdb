@@ -8784,6 +8784,8 @@ packages:
       - TS-2026-004
       1.102.1-r0:
       - TS-2026-010
+      1.102.3-r0:
+      - TS-2026-011
 - pkg:
     name: targetcli
     secfixes:
