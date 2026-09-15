@@ -1817,6 +1817,9 @@ packages:
     secfixes:
       1.2.2-r0:
       - CVE-2022-21682
+      1.4.11-r0:
+      - CVE-2026-86320
+      - GHSA-484h-v688-jq5j
 - pkg:
     name: flatpak
     secfixes:
