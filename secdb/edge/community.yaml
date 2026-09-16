@@ -4669,6 +4669,11 @@ packages:
       7.0.3-r0:
       - CVE-2021-39214
 - pkg:
+    name: mkvtoolnix
+    secfixes:
+      102.0-r0:
+      - CVE-2026-90783
+- pkg:
     name: mongo-c-driver
     secfixes:
       1.25.4-r0:
