@@ -4927,6 +4927,9 @@ packages:
       - CVE-2026-55973
       - CVE-2026-56416
       - CVE-2026-56444
+      1.25.2-r2:
+      - CVE-2026-82717
+      - CVE-2026-81642
 - pkg:
     name: unzip
     secfixes:
