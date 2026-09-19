@@ -8572,6 +8572,13 @@ packages:
       0.30.1-r0:
       - CVE-2026-30836
 - pkg:
+    name: streamlink
+    secfixes:
+      8.4.0-r0:
+      - CVE-2026-44353
+      8.6.1-r0:
+      - CVE-2026-92164
+- pkg:
     name: sudo-rs
     secfixes:
       0.2.15-r0:
