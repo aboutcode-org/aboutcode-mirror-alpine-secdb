@@ -3879,6 +3879,9 @@ packages:
       - CVE-2020-8597
       2.4.9-r6:
       - CVE-2022-4603
+      2.5.4-r0:
+      - CVE-2026-75883
+      - CVE-2026-85495
 - pkg:
     name: privoxy
     secfixes:
