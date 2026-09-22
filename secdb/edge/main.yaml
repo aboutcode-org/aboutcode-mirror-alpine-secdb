@@ -3630,6 +3630,13 @@ packages:
       - CVE-2026-45190
       - CVE-2026-45191
 - pkg:
+    name: perl-net-dns
+    secfixes:
+      1.57-r0:
+      - CVE-2026-81928
+      - CVE-2026-64193
+      - CVE-2026-64194
+- pkg:
     name: perl-yaml-syck
     secfixes:
       1.45-r0:
