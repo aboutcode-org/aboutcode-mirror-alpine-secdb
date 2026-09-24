@@ -9806,6 +9806,11 @@ packages:
       0.58-r0:
       - CVE-2020-7450
 - pkg:
+    name: xdg-dbus-proxy
+    secfixes:
+      0.1.9-r0:
+      - CVE-2026-94422
+- pkg:
     name: xerces-c
     secfixes:
       3.2.5-r0:
