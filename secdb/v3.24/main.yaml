@@ -3643,6 +3643,8 @@ packages:
       - CVE-2024-56406
       5.42.2-r0:
       - CVE-2026-4176
+      5.42.2-r1:
+      - CVE-2026-13221
 - pkg:
     name: pgpool
     secfixes:
