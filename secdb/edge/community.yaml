@@ -201,6 +201,8 @@ packages:
       - CVE-2024-11218
       1.42.1-r0:
       - CVE-2025-52881
+      1.45.1-r0:
+      - CVE-2026-79705
 - pkg:
     name: buildkit
     secfixes:
@@ -1000,9 +1002,10 @@ packages:
       1.28-r0:
       - CVE-2026-47766
       1.30-r0:
-      - CVE-2026-84042
       - CVE-2026-88264
       - CVE-2026-88265
+      1.30.1-r0:
+      - CVE-2026-84042
 - pkg:
     name: csync2
     secfixes:
@@ -1581,6 +1584,11 @@ packages:
       4.98.5-r0:
       - CVE-2026-66140
       - CVE-2026-66141
+      4.100.1-r0:
+      - GCVE-25-2026-09-50-1
+      - GCVE-25-2026-09-51-1
+      - GCVE-25-2026-09-55-1
+      - GCVE-25-2026-09-56-1
 - pkg:
     name: exiv2
     secfixes:
@@ -6481,6 +6489,10 @@ packages:
       - CVE-2026-57231
       6.1.1-r0:
       - CVE-2026-17106
+      6.1.2-r0:
+      - CVE-2025-11395
+      - CVE-2026-79699
+      - CVE-2026-79705
 - pkg:
     name: podofo
     secfixes:
@@ -8525,6 +8537,8 @@ packages:
       - CVE-2024-3727
       1.20.1-r0:
       - CVE-2026-34986
+      1.24.1-r0:
+      - CVE-2025-11395
 - pkg:
     name: sleuthkit
     secfixes:
