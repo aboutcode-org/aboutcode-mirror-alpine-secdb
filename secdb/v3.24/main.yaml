@@ -5116,6 +5116,9 @@ packages:
       - CVE-2026-31787 XSA-487
       - CVE-2026-42486 XSA-489
       - CVE-2026-42491 XSA-498
+      - CVE-2026-79604 XSA-512
+      - CVE-2026-79605 XSA-513
+      - CVE-2026-79606 XSA-513
       4.7.0-r0:
       - CVE-2016-6258 XSA-182
       - CVE-2016-6259 XSA-183
@@ -5504,6 +5507,10 @@ packages:
       - CVE-2026-62435 XSA-501
       - CVE-2026-62436 XSA-501
       - XSA-508
+      4.21.2-r1:
+      - CVE-2026-62437 XSA-509
+      - CVE-2026-79602 XSA-510
+      - CVE-2026-79603 XSA-511
 - pkg:
     name: xkbcomp
     secfixes:
