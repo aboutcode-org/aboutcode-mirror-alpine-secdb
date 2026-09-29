@@ -2165,6 +2165,8 @@ packages:
       - CVE-2026-34757
       1.6.58-r1:
       - CVE-2026-40930
+      1.6.59-r0:
+      - CVE-2026-46675
 - pkg:
     name: libseccomp
     secfixes:
@@ -4247,6 +4249,12 @@ packages:
       - CVE-2019-17042
       8.2204.1-r0:
       - CVE-2022-24903
+      8.2608.0-r0:
+      - CVE-2026-19654
+      - CVE-2026-55556
+      - CVE-2026-61548
+      - CVE-2026-78002
+      - CVE-2026-93403
 - pkg:
     name: ruby-net-imap
     secfixes:

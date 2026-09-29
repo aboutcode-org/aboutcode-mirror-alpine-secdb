@@ -8397,6 +8397,12 @@ packages:
       0.30.1-r0:
       - CVE-2026-30836
 - pkg:
+    name: stunnel
+    secfixes:
+      5.82-r0:
+      - CVE-2026-70367
+      - CVE-2026-70368
+- pkg:
     name: sudo-rs
     secfixes:
       0.2.15-r0:
