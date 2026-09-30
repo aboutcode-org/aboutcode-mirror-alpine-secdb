@@ -6599,6 +6599,10 @@ packages:
     secfixes:
       2.9.3-r0:
       - CVE-2023-25149
+      2.29.2-r0:
+      - CVE-2026-70633
+      - CVE-2026-70634
+      - CVE-2026-70635
 - pkg:
     name: postgresql16
     secfixes:
