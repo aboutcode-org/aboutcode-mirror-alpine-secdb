@@ -6473,6 +6473,12 @@ packages:
     secfixes:
       0.15.0-r0:
       - CVE-2023-48795
+      2.0.0-r0:
+      - CVE-2026-39831
+      - CVE-2026-39833
+      - CVE-2026-41178
+      - CVE-2026-46597
+      - CVE-2026-57231
 - pkg:
     name: podman
     secfixes:
