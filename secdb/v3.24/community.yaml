@@ -77,6 +77,8 @@ packages:
       1.10.11-r0:
       - CVE-2021-36373
       - CVE-2021-36374
+      1.10.18-r0:
+      - CVE-2026-78254
 - pkg:
     name: apptainer
     secfixes:
