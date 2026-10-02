@@ -4055,6 +4055,10 @@ packages:
       - CVE-2023-45803
       2.6.3-r0:
       - CVE-2026-21441
+      2.8.0-r0:
+      - CVE-2026-97687
+      - CVE-2026-97688
+      - CVE-2026-97689
 - pkg:
     name: py3-werkzeug
     secfixes:
