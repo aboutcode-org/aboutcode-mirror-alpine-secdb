@@ -7007,6 +7007,11 @@ packages:
       - CVE-2026-15337
       - CVE-2026-15830
       - CVE-2026-15920
+      5.2.18-r0:
+      - CVE-2026-77050
+      - CVE-2026-84429
+      - CVE-2026-87890
+      - CVE-2026-87975
 - pkg:
     name: py3-ecdsa
     secfixes:
@@ -9041,6 +9046,10 @@ packages:
       - CVE-2026-54763
       - CVE-2026-54764
       - CVE-2026-54765
+      3.7.13-r0:
+      - CVE-2026-88004
+      - CVE-2026-88008
+      - CVE-2026-88009
 - pkg:
     name: trafficserver9
     secfixes:
@@ -9160,6 +9169,14 @@ packages:
       - GHSA-f7r5-w49x-gxm3
       - GHSA-h6cc-rc6q-23j4
       - GHSA-j4h8-vch3-f797
+      1.37.4-r0:
+      - GHSA-69q9-v8p6-xvx3
+      - GHSA-7jg8-8m5x-6j9r
+      - GHSA-v576-3wvq-xh3c
+      - GHSA-q5x6-grh5-fqgc
+      - GHSA-64mc-4p6f-r7x9
+      - GHSA-7ccc-c43j-4p36
+      - GHSA-qwx4-wcv4-mpcv
 - pkg:
     name: victoria-metrics
     secfixes:
@@ -10152,6 +10169,19 @@ packages:
       24.1.13-r0:
       - CVE-2026-55999
       - CVE-2026-56000
+      24.1.14-r0:
+      - CVE-2026-88812
+      - CVE-2026-93515
+      - CVE-2026-93516
+      - CVE-2026-93517
+      - CVE-2026-93518
+      - CVE-2026-93519
+      - CVE-2026-93520
+      - CVE-2026-93521
+      - CVE-2026-93522
+      - CVE-2026-93523
+      - CVE-2026-93524
+      - CVE-2026-93536
 - pkg:
     name: yara
     secfixes:
@@ -10227,6 +10257,9 @@ packages:
       - CVE-2020-13775
       1.9.1-r0:
       - CVE-2024-39844
+      1.10.3-r0:
+      - CVE-2026-82373
+      - CVE-2026-82374
 - pkg:
     name: zoneminder
     secfixes:
