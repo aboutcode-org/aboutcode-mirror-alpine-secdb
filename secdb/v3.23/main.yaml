@@ -5839,6 +5839,8 @@ packages:
       1.3.2-r0:
       - CVE-2026-22184
       - CVE-2026-27171
+      1.3.2-r1:
+      - CVE-2026-85091
 - pkg:
     name: zsh
     secfixes:
