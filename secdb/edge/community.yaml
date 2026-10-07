@@ -3281,6 +3281,14 @@ packages:
       - CVE-2026-47753
       - CVE-2026-48753
 - pkg:
+    name: inetutils-telnet
+    secfixes:
+      2.8-r0:
+      - CVE-2026-24061
+      - CVE-2026-28372
+      - CVE-2026-32746
+      - CVE-2026-32772
+- pkg:
     name: inspircd
     secfixes:
       3.10.0-r0:
@@ -9771,6 +9779,15 @@ packages:
       - CVE-2026-15172
       - CVE-2026-15173
       - CVE-2026-15174
+- pkg:
+    name: wolfssh
+    secfixes:
+      1.6.0-r0:
+      - CVE-2026-16516
+      - CVE-2026-83540
+      - CVE-2026-84897
+      - CVE-2026-81535
+      - CVE-2026-83742
 - pkg:
     name: wolfssl
     secfixes:

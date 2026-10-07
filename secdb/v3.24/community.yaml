@@ -9451,6 +9451,15 @@ packages:
       - CVE-2026-3202
       - CVE-2026-3203
 - pkg:
+    name: wolfssh
+    secfixes:
+      1.6.0-r0:
+      - CVE-2026-16516
+      - CVE-2026-83540
+      - CVE-2026-84897
+      - CVE-2026-81535
+      - CVE-2026-83742
+- pkg:
     name: wolfssl
     secfixes:
       "0":
