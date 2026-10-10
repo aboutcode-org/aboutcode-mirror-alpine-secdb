@@ -5150,6 +5150,8 @@ packages:
       - CVE-2021-3181
       2.2.3-r0:
       - CVE-2022-1328
+      2.2.16-r1:
+      - CVE-2026-107570
 - pkg:
     name: nats-server
     secfixes:
