@@ -8688,6 +8688,8 @@ packages:
       - CVE-2026-44353
       8.6.1-r0:
       - CVE-2026-92164
+      8.6.2-r0:
+      - GHSA-j7pf-m7gx-jr33
 - pkg:
     name: stunnel
     secfixes:
