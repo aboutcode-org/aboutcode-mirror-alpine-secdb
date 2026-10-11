@@ -6844,6 +6844,9 @@ packages:
     secfixes:
       2.14.2-r0:
       - CVE-2023-48795
+      2.24.1-r0:
+      - CVE-2026-54591
+      - CVE-2026-62949
 - pkg:
     name: py3-bleach
     secfixes:
