@@ -8029,6 +8029,11 @@ packages:
       - CVE-2018-20181
       - CVE-2018-20182
 - pkg:
+    name: rebar3
+    secfixes:
+      3.27.3-r0:
+      - CVE-2026-103060
+- pkg:
     name: recutils
     secfixes:
       1.9-r0:
