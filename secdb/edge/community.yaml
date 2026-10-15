@@ -933,6 +933,10 @@ packages:
       - GHSA-rp3h-jf77-q9p4
       2.4.1-r0:
       - CVE-2026-53493
+      2.4.2-r0:
+      - CVE-2026-95839
+      - GHSA-8647-2jxj-p2rc
+      - GHSA-hc94-p972-ch66
 - pkg:
     name: coredns
     secfixes:
@@ -2153,6 +2157,8 @@ packages:
 - pkg:
     name: ghostscript
     secfixes:
+      "0":
+      - CVE-2026-19547
       9.21-r2:
       - CVE-2017-8291
       9.21-r3:
@@ -2250,6 +2256,8 @@ packages:
       - CVE-2025-59799
       - CVE-2025-59800
       - CVE-2025-59801
+      10.08.0-r0:
+      - CVE-2026-39919
 - pkg:
     name: gimp
     secfixes:
