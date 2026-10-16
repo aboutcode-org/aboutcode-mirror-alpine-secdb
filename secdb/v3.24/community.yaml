@@ -2141,6 +2141,8 @@ packages:
 - pkg:
     name: ghostscript
     secfixes:
+      "0":
+      - CVE-2026-19547
       9.21-r2:
       - CVE-2017-8291
       9.21-r3:
@@ -2238,6 +2240,8 @@ packages:
       - CVE-2025-59799
       - CVE-2025-59800
       - CVE-2025-59801
+      10.08.0-r0:
+      - CVE-2026-39919
 - pkg:
     name: gimp
     secfixes:
