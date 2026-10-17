@@ -17,7 +17,9 @@ jobs:
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd  # v6.0.2
 
       - name: Run sync
-        run: wget --mirror --no-parent --reject "index.html*" --no-host-directories -P secdb https://secdb.alpinelinux.org/
+        # Do not use --mirror/-N here: the checkout resets every mtime, so
+        # timestamping would skip upstream changes that keep the file size (#3).
+        run: wget -r -l inf --no-parent --reject "index.html*" --no-host-directories -P secdb https://secdb.alpinelinux.org/
 
       - name: Commit and push if it changed
         run: |-
