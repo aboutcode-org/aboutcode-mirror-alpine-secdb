@@ -175,6 +175,8 @@ packages:
     secfixes:
       1.2.6-r0:
       - CVE-2023-36811
+      1.4.5-r0:
+      - CVE-2026-62268
 - pkg:
     name: buildah
     secfixes:
@@ -6373,6 +6375,15 @@ packages:
       - CVE-2026-18089
       - CVE-2026-18092
       - CVE-2026-18108
+- pkg:
+    name: perl-plack
+    secfixes:
+      1.0055-r0:
+      - CVE-2026-110333
+      - CVE-2026-110332
+      - CVE-2026-110335
+      - CVE-2026-110334
+      - CVE-2026-110336
 - pkg:
     name: perl-protocol-http2
     secfixes:
