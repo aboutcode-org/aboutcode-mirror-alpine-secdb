@@ -2312,6 +2312,11 @@ packages:
       - CVE-2023-43785
       - CVE-2023-43786
       - CVE-2023-43787
+      1.8.14-r0:
+      - CVE-2026-88806
+      - CVE-2026-94283
+      - CVE-2026-94284
+      - CVE-2026-94285
 - pkg:
     name: libxcursor
     secfixes:
@@ -2322,6 +2327,19 @@ packages:
     secfixes:
       1.1.2-r3:
       - CVE-2017-2625
+- pkg:
+    name: libxi
+    secfixes:
+      1.8.4-r0:
+      - CVE-2026-93541
+      - CVE-2026-93542
+      - CVE-2026-93543
+      - CVE-2026-93544
+      - CVE-2026-93545
+      - CVE-2026-94281
+      - CVE-2026-94282
+      - CVE-2026-109089
+      - CVE-2026-109090
 - pkg:
     name: libxml2
     secfixes:
@@ -2390,6 +2408,13 @@ packages:
       - CVE-2023-43789
       3.5.19-r0:
       - CVE-2026-4367
+      3.5.20-r0:
+      - CVE-2026-94287
+- pkg:
+    name: libxrender
+    secfixes:
+      0.9.13-r0:
+      - CVE-2026-88807
 - pkg:
     name: libxslt
     secfixes:
@@ -2409,6 +2434,12 @@ packages:
       1.1.43-r0:
       - CVE-2025-24855
       - CVE-2024-55549
+- pkg:
+    name: libxtst
+    secfixes:
+      1.2.6-r0:
+      - CVE-2026-94286
+      - CVE-2026-109088
 - pkg:
     name: lighttpd
     secfixes:
