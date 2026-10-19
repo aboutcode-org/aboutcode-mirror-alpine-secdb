@@ -162,6 +162,8 @@ packages:
     secfixes:
       1.2.6-r0:
       - CVE-2023-36811
+      1.4.5-r0:
+      - CVE-2026-62268
 - pkg:
     name: buildah
     secfixes:
@@ -8579,6 +8581,8 @@ packages:
       1.9.17_p1-r0:
       - CVE-2025-32462
       - CVE-2025-32463
+      1.9.17_p2-r2:
+      - CVE-2026-96512
 - pkg:
     name: suricata
     secfixes:
