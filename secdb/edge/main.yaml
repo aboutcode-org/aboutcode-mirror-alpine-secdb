@@ -3731,6 +3731,9 @@ packages:
       - CVE-2026-15392
       - CVE-2026-73194
       - CVE-2026-73193
+      1.656-r0:
+      - CVE-2026-108518
+      - CVE-2026-111879
 - pkg:
     name: perl-email-address-list
     secfixes:

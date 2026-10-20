@@ -637,6 +637,8 @@ packages:
       6.15-r0:
       - CVE-2022-27239
       - CVE-2022-29869
+      7.3-r1:
+      - CVE-2026-104715
 - pkg:
     name: cjson
     secfixes:
