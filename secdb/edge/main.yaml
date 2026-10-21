@@ -315,6 +315,11 @@ packages:
       2.11.1-r0:
       - CVE-2025-31160
 - pkg:
+    name: augeas
+    secfixes:
+      1.15.0-r0:
+      - CVE-2025-2588
+- pkg:
     name: avahi
     secfixes:
       "0":
