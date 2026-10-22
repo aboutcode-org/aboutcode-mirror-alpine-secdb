@@ -864,6 +864,9 @@ packages:
       - GHSA-499r-g7pc-vmp9
       - GHSA-gjfg-22fp-rrxx
       - GHSA-g6xq-892h-64w3
+      2.10.3-r0:
+      - CVE-2026-59944
+      - CVE-2026-84361
 - pkg:
     name: comrak
     secfixes:
@@ -6383,6 +6386,9 @@ packages:
       - CVE-2026-91769
       - CVE-2026-92842
       - CVE-2026-93682
+      8.3.36-r0:
+      - CVE-2026-109618, GHSA-w8hw-w9fx-j79w
+      - CVE-2026-109619, GHSA-7875-c8px-7q5f
 - pkg:
     name: php84
     secfixes:

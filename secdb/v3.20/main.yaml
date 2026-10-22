@@ -2538,6 +2538,8 @@ packages:
       - CVE-2026-6042
       1.2.5-r3:
       - CVE-2026-40200
+      1.2.5-r4:
+      - CVE-2026-107891
 - pkg:
     name: ncurses
     secfixes:
