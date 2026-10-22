@@ -5510,6 +5510,9 @@ packages:
       - CVE-2025-1734
       - CVE-2025-1736
       - CVE-2025-1861
+      8.2.35-r0:
+      - CVE-2026-109618
+      - CVE-2026-109619
 - pkg:
     name: php83
     secfixes:
