@@ -1121,6 +1121,11 @@ packages:
       2.0.8-r0:
       - CVE-2026-52682
 - pkg:
+    name: docker-cli-buildx
+    secfixes:
+      0.38.1-r0:
+      - CVE-2026-111943
+- pkg:
     name: docker-cli-compose
     secfixes:
       2.12.1-r0:
@@ -1209,6 +1214,14 @@ packages:
       - CVE-2026-53493
       - CVE-2026-92543
       - CVE-2026-92542
+      29.9.0-r0:
+      - CVE-2026-97032
+      - CVE-2026-78659
+      - CVE-2026-78663
+      - CVE-2026-78669
+      - CVE-2026-56857
+      29.9.2-r0:
+      - CVE-2026-111943
 - pkg:
     name: doctl
     secfixes:
