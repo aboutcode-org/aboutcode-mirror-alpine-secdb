@@ -2768,6 +2768,8 @@ packages:
       - CVE-2026-56857
       - CVE-2026-78667
       - CVE-2026-78663
+      1.27.3-r0:
+      - CVE-2026-111943
 - pkg:
     name: gradle
     secfixes:
@@ -6843,6 +6845,9 @@ packages:
       - CVE-2021-3560
       0.120-r2:
       - CVE-2021-4034
+      128-r0:
+      - CVE-2026-4897
+      - CVE-2026-85498
 - pkg:
     name: poppler-qt
     secfixes:
