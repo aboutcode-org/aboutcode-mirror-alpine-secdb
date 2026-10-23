@@ -6366,6 +6366,14 @@ packages:
       - CVE-2026-52688
       5.4.5-r0:
       - CVE-2026-52682
+      5.4.8-r0:
+      - CVE-2026-73205
+      - CVE-2026-73206
+      - CVE-2026-85555
+      - CVE-2026-85556
+      - CVE-2026-85557
+      - CVE-2026-85558
+      - CVE-2026-85559
 - pkg:
     name: pdns
     secfixes:
@@ -9459,6 +9467,11 @@ packages:
       1.148.5-r0:
       - GHSA-8g4f-32hw-vqf8
       - GHSA-xxqh-2hcc-9fp6
+- pkg:
+    name: vifm
+    secfixes:
+      0.14.5-r0:
+      - CVE-2026-110237
 - pkg:
     name: vim
     secfixes:

@@ -1133,6 +1133,8 @@ packages:
       2.15.1-r0:
       - CVE-2022-27664
       - CVE-2022-32149
+      5.6.1-r0:
+      - CVE-2026-111943
 - pkg:
     name: docker
     secfixes:
