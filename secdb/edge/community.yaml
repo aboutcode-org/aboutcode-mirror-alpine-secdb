@@ -6487,6 +6487,8 @@ packages:
       - CVE-2026-110335
       - CVE-2026-110334
       - CVE-2026-110336
+      1.0057-r0:
+      - CVE-2026-115825
 - pkg:
     name: perl-protocol-http2
     secfixes:
