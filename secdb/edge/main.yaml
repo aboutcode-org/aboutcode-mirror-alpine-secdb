@@ -3281,6 +3281,15 @@ packages:
       6.9.5-r2:
       - CVE-2020-26159
 - pkg:
+    name: open-iscsi
+    secfixes:
+      2.1.13-r0:
+      - CVE-2026-18724
+      - CVE-2026-18725
+      - CVE-2026-18726
+      - CVE-2026-18726
+      - CVE-2026-18728
+- pkg:
     name: openjpeg
     secfixes:
       2.1.2-r1:

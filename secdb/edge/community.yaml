@@ -10240,6 +10240,11 @@ packages:
       - CVE-2026-94418
       - CVE-2026-94419
 - pkg:
+    name: writefreely
+    secfixes:
+      0.17.2-r0:
+      - CVE-2025-24337
+- pkg:
     name: x11vnc
     secfixes:
       0.9.16-r2:
