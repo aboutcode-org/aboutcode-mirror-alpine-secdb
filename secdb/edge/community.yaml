@@ -9198,6 +9198,8 @@ packages:
       - TS-2026-010
       1.102.3-r0:
       - TS-2026-011
+      1.104.2-r0:
+      - TS-2026-013
 - pkg:
     name: targetcli
     secfixes:
