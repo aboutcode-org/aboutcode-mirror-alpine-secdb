@@ -6433,6 +6433,8 @@ packages:
       - CVE-2026-42005
       5.1.4-r0:
       - CVE-2026-52682
+      5.1.5-r0:
+      - CVE-2026-73206
 - pkg:
     name: perl-app-cpanminus
     secfixes:
