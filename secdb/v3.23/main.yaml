@@ -4306,6 +4306,13 @@ packages:
       8.2204.1-r0:
       - CVE-2022-24903
 - pkg:
+    name: ruby-net-imap
+    secfixes:
+      0.5.15-r0:
+      - CVE-2026-47240
+      - CVE-2026-47241
+      - CVE-2026-47242
+- pkg:
     name: ruby-rexml
     secfixes:
       3.3.9-r0:
@@ -4377,6 +4384,13 @@ packages:
       - CVE-2025-61594
       3.4.9-r0:
       - CVE-2026-27820
+      3.4.12-r0:
+      - CVE-2026-80212
+      - CVE-2026-80213
+      - CVE-2026-89078
+      - CVE-2026-93577
+      - CVE-2026-97229
+      - CVE-2026-110264
 - pkg:
     name: rust
     secfixes:

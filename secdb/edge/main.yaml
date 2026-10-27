@@ -3807,6 +3807,17 @@ packages:
       2.86-r0:
       - CVE-2026-11526
 - pkg:
+    name: perl-http-body
+    secfixes:
+      1.24-r0:
+      - CVE-2026-116131
+      - CVE-2026-116132
+      - CVE-2026-116133
+      - CVE-2026-116134
+      - CVE-2026-116135
+      - CVE-2026-116285
+      - CVE-2026-116531
+- pkg:
     name: perl-http-date
     secfixes:
       6.0.8-r0:
