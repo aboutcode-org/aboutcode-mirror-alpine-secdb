@@ -2425,6 +2425,11 @@ packages:
       - CVE-2023-44443 ZDI-CAN-22096
       - CVE-2023-44444 ZDI-CAN-22097
 - pkg:
+    name: git-annex
+    secfixes:
+      10.20261026-r0:
+      - CVE-2026-112818
+- pkg:
     name: git-lfs
     secfixes:
       "0":
