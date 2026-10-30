@@ -9101,6 +9101,12 @@ packages:
       - CVE-2022-29694
       - CVE-2022-29695
 - pkg:
+    name: unrtf
+    secfixes:
+      0.21.13-r0:
+      - CVE-2025-65410
+      - CVE-2025-65411
+- pkg:
     name: upx
     secfixes:
       3.96-r0:
