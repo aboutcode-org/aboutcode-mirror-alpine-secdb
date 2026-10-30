@@ -860,6 +860,9 @@ packages:
       2.10.3-r0:
       - CVE-2026-59944
       - CVE-2026-84361
+      2.11.0-r0:
+      - GHSA-c968-33g3-wh7p
+      - GHSA-fm2w-xgf2-f9fh
 - pkg:
     name: comrak
     secfixes:
