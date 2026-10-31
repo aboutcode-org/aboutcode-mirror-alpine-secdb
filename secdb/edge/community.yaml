@@ -1348,6 +1348,9 @@ packages:
       - CVE-2026-70197
       - CVE-2026-96236
       - CVE-2026-102870
+      10.0.14-r0:
+      - CVE-2026-111497
+      - CVE-2026-114148
 - pkg:
     name: dotnet8-runtime
     secfixes:
@@ -1620,27 +1623,6 @@ packages:
     secfixes:
       0.12.11-r0:
       - CVE-2026-40489
-- pkg:
-    name: element-web
-    secfixes:
-      1.8.4-r0:
-      - CVE-2021-40823
-      - CVE-2021-40824
-      1.9.7-r0:
-      - CVE-2021-44538
-      1.11.4-r0:
-      - CVE-2022-36059
-      - CVE-2022-36060
-      1.11.7-r0:
-      - CVE-2022-39249
-      - CVE-2022-39250
-      - CVE-2022-39251
-      - CVE-2022-39236
-      1.11.26-r0:
-      - CVE-2023-28103
-      - CVE-2023-28427
-      1.11.30-r0:
-      - CVE-2023-30609
 - pkg:
     name: elixir
     secfixes:
@@ -2217,6 +2199,8 @@ packages:
       - CVE-2026-57156
       - CVE-2026-57157
       - CVE-2026-57158
+      3.32.2-r0:
+      - CVE-2026-109256
 - pkg:
     name: freerdp2
     secfixes:
@@ -7394,6 +7378,11 @@ packages:
       2.0.3-r0:
       - CVE-2022-34749
 - pkg:
+    name: py3-msgpack
+    secfixes:
+      "0":
+      - CVE-2026-114613
+- pkg:
     name: py3-nltk
     secfixes:
       3.9.3-r0:
@@ -8537,6 +8526,17 @@ packages:
       - CVE-2026-39836
       - CVE-2026-42499
       - CVE-2026-42501
+      1.75.2-r0:
+      - CVE-2026-116187
+      - CVE-2026-116188
+      - CVE-2026-116189
+      - CVE-2026-116190
+      - CVE-2026-116191
+      - CVE-2026-116192
+      - CVE-2026-116193
+      - CVE-2026-116194
+      - CVE-2026-116195
+      - CVE-2026-116196
 - pkg:
     name: rdesktop
     secfixes:

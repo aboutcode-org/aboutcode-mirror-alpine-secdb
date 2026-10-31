@@ -2181,6 +2181,8 @@ packages:
       - CVE-2026-57156
       - CVE-2026-57157
       - CVE-2026-57158
+      3.32.2-r0:
+      - CVE-2026-109256
 - pkg:
     name: freerdp2
     secfixes:
