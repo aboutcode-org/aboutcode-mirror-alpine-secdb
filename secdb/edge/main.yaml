@@ -2865,6 +2865,11 @@ packages:
       1.32.8-r0:
       - CVE-2024-10573
 - pkg:
+    name: mtools
+    secfixes:
+      4.0.50-r0:
+      - CVE-2026-118384
+- pkg:
     name: musl
     secfixes:
       1.1.15-r4:
