@@ -7124,6 +7124,9 @@ packages:
     secfixes:
       7.3.10-r0:
       - CVE-2023-36013
+      7.6.9-r0:
+      - CVE-2026-96251
+      - CVE-2026-96303
 - pkg:
     name: proftpd
     secfixes:
@@ -9368,6 +9371,11 @@ packages:
       - TS-2026-011
       1.104.2-r0:
       - TS-2026-013
+      1.104.4-r0:
+      - TS-2026-017
+      - TS-2026-016
+      - TS-2026-015
+      - TS-2026-014
 - pkg:
     name: targetcli
     secfixes:
