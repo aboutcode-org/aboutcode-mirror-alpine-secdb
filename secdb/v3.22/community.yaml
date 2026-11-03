@@ -1190,6 +1190,8 @@ packages:
       - CVE-2026-96225
       - CVE-2026-70197
       - CVE-2026-96236
+      9.0.22-r0:
+      - CVE-2026-114148
 - pkg:
     name: e2guardian
     secfixes:
