@@ -93,6 +93,11 @@ packages:
       1.5.1-r0:
       - CVE-2026-48785 / GHSA-cr2j-534f-mf3g
 - pkg:
+    name: apt
+    secfixes:
+      3.2.1-r0:
+      - CVE-2026-109518
+- pkg:
     name: ark
     secfixes:
       20.04.3-r1:

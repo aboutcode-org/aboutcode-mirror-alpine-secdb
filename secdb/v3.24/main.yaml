@@ -1639,6 +1639,8 @@ packages:
       - CVE-2022-1271
       1.14-r3:
       - CVE-2026-41992
+      1.15-r0:
+      - CVE-2026-41991
 - pkg:
     name: haproxy
     secfixes:
@@ -3633,6 +3635,9 @@ packages:
       - CVE-2018-20969
       2.7.6-r7:
       - CVE-2019-20633
+      2.8.1-r0:
+      - CVE-2026-56288
+      - CVE-2026-56289
 - pkg:
     name: pcre
     secfixes:
