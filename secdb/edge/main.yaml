@@ -3439,6 +3439,8 @@ packages:
       - CVE-2026-35387
       - CVE-2026-35388
       - CVE-2026-35414
+      10.6_p2-r0:
+      - CVE-2026-123158
 - pkg:
     name: openssl
     secfixes:

@@ -3384,6 +3384,8 @@ packages:
       - CVE-2026-73281
       - CVE-2026-73282
       - CVE-2026-73283
+      10.3_p1-r2:
+      - CVE-2026-123158
 - pkg:
     name: openssl
     secfixes:
@@ -4392,6 +4394,8 @@ packages:
       - CVE-2026-70462
       - CVE-2026-70463
       - CVE-2026-70464
+      3.5.2-r0:
+      - CVE-2026-119741
 - pkg:
     name: rsyslog
     secfixes:

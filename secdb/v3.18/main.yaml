@@ -2618,6 +2618,8 @@ packages:
       - CVE-2024-6387
       9.3_p2-r3:
       - CVE-2025-26465
+      9.3_p2-r4:
+      - CVE-2026-123158
 - pkg:
     name: openssl
     secfixes:

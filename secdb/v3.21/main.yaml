@@ -3194,6 +3194,8 @@ packages:
       9.9_p2-r0:
       - CVE-2025-26465
       - CVE-2025-26466
+      9.9_p2-r1:
+      - CVE-2026-123158
 - pkg:
     name: openssl
     secfixes:
