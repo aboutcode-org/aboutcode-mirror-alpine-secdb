@@ -6741,8 +6741,8 @@ packages:
       - CVE-2026-7262
       - CVE-2026-7568
       8.3.36-r0:
-      - CVE-2026-109618, GHSA-w8hw-w9fx-j79w
-      - CVE-2026-109619, GHSA-7875-c8px-7q5f
+      - CVE-2026-109618 GHSA-w8hw-w9fx-j79w
+      - CVE-2026-109619 GHSA-7875-c8px-7q5f
       - CVE-2025-1218
       - CVE-2025-14181
       - CVE-2026-6103
@@ -6782,8 +6782,8 @@ packages:
       - CVE-2026-29078
       - CVE-2026-29079
       8.4.27-r0:
-      - CVE-2026-109618, GHSA-w8hw-w9fx-j79w
-      - CVE-2026-109619, GHSA-7875-c8px-7q5f
+      - CVE-2026-109618 GHSA-w8hw-w9fx-j79w
+      - CVE-2026-109619 GHSA-7875-c8px-7q5f
       - CVE-2025-1218
       - CVE-2025-14181
       - CVE-2026-6103
@@ -6820,8 +6820,8 @@ packages:
       - CVE-2026-29079
       - CVE-2026-42371
       8.5.12-r0:
-      - CVE-2026-109618, GHSA-w8hw-w9fx-j79w
-      - CVE-2026-109619, GHSA-7875-c8px-7q5f
+      - CVE-2026-109618 GHSA-w8hw-w9fx-j79w
+      - CVE-2026-109619 GHSA-7875-c8px-7q5f
       - CVE-2025-1218
       - CVE-2025-14181
       - CVE-2026-6103
@@ -7489,7 +7489,7 @@ packages:
       10.3.0-r0:
       - CVE-2024-28219
       11.3.0-r0:
-      - CVE 2025-48379
+      - CVE-2025-48379
       11.3.0-r2:
       - CVE-2026-25990
 - pkg:
@@ -9235,8 +9235,8 @@ packages:
       1.147.1-r0:
       - CVE-2026-24044
       1.152.1-r0:
-      - CVE-2026-45078, GHSA-8q93-326v-3m7g
-      - CVE-2026-45076, GHSA-6qf2-7x63-mm6v
+      - CVE-2026-45078 GHSA-8q93-326v-3m7g
+      - CVE-2026-45076 GHSA-6qf2-7x63-mm6v
 - pkg:
     name: syncthing
     secfixes:
