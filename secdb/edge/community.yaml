@@ -980,6 +980,15 @@ packages:
       - CVE-2026-27624
       4.10.0-r0:
       - CVE-2026-40613
+      4.18.0-r0:
+      - CVE-2026-65981
+      - CVE-2026-68552
+      - CVE-2026-68554
+      - CVE-2026-68555
+      - CVE-2026-73213
+      - CVE-2026-73214
+      - CVE-2026-73215
+      - CVE-2026-73216
 - pkg:
     name: cpio
     secfixes:
@@ -6726,6 +6735,14 @@ packages:
     secfixes:
       0.66-r0:
       - CVE-2023-7101
+- pkg:
+    name: perl-sql-abstract
+    secfixes:
+      2.000003-r0:
+      - CVE-2026-121265
+      - CVE-2026-121007
+      - CVE-2026-121008
+      - CVE-2026-121009
 - pkg:
     name: perl-starlet
     secfixes:

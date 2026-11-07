@@ -3854,6 +3854,10 @@ packages:
       - CVE-2026-116135
       - CVE-2026-116285
       - CVE-2026-116531
+      1.25-r0:
+      - CVE-2026-117500
+      - CVE-2026-117501
+      - CVE-2026-121006
 - pkg:
     name: perl-http-date
     secfixes:

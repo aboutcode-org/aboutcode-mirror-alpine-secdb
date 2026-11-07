@@ -6511,6 +6511,14 @@ packages:
       0.66-r0:
       - CVE-2023-7101
 - pkg:
+    name: perl-sql-abstract
+    secfixes:
+      2.000003-r0:
+      - CVE-2026-121265
+      - CVE-2026-121007
+      - CVE-2026-121008
+      - CVE-2026-121009
+- pkg:
     name: perl-starlet
     secfixes:
       0.32-r0:
