@@ -224,6 +224,10 @@ packages:
       - CVE-2026-73637
       - CVE-2026-79768
       - CVE-2026-93546
+      2.4.71-r0:
+      - CVE-2026-106023
+      - CVE-2026-109163
+      - CVE-2026-119618
 - pkg:
     name: apk-tools
     secfixes:
