@@ -7881,6 +7881,8 @@ packages:
       - CVE-2025-31133
       - CVE-2025-52565
       - CVE-2025-52881
+      1.3.7-r0:
+      - CVE-2026-119101
 - pkg:
     name: rxvt-unicode
     secfixes:
