@@ -2936,6 +2936,11 @@ packages:
       2.8.113-r0:
       - CVE-2021-21783
 - pkg:
+    name: gst-editing-services
+    secfixes:
+      1.28.9-r0:
+      - CVE-2026-116612
+- pkg:
     name: gst-plugins-bad
     secfixes:
       1.22.4-r0:
@@ -2956,6 +2961,11 @@ packages:
       - CVE-2025-3887
       1.26.3-r0:
       - CVE-2025-6663
+      1.28.9-r0:
+      - CVE-2026-100231
+      - CVE-2026-116611
+      - CVE-2026-121601
+      - CVE-2026-121611
 - pkg:
     name: gst-plugins-good
     secfixes:
@@ -3016,6 +3026,10 @@ packages:
       - CVE-2026-46470
       - CVE-2026-46472
       - CVE-2026-5056
+      1.28.9-r0:
+      - CVE-2026-111183
+      - CVE-2026-119610
+      - CVE-2026-121629
 - pkg:
     name: gst-plugins-ugly
     secfixes:
@@ -3025,6 +3039,8 @@ packages:
       1.22.5-r0:
       - CVE-2023-38104
       - CVE-2023-38103
+      1.28.9-r0:
+      - CVE-2026-112214
 - pkg:
     name: gst-rtsp-server
     secfixes:
