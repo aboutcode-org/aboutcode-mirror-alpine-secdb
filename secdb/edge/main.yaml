@@ -2169,6 +2169,11 @@ packages:
       1.2304.0-r0:
       - CVE-2020-12762
 - pkg:
+    name: libfontenc
+    secfixes:
+      1.1.10-r0:
+      - CVE-2026-109908
+- pkg:
     name: libgcrypt
     secfixes:
       1.8.3-r0:
@@ -3082,6 +3087,16 @@ packages:
       - CVE-2026-95101
       - CVE-2026-97629
       - CVE-2026-97205
+      1.30.7-r0:
+      - CVE-2026-113425
+      - CVE-2026-118899
+      - CVE-2026-120967
+      - CVE-2026-121810
+      - CVE-2026-123007
+      - CVE-2026-123633
+      - CVE-2026-123634
+      - CVE-2026-123640
+      - CVE-2026-125283
 - pkg:
     name: ngircd
     secfixes:
@@ -6122,6 +6137,11 @@ packages:
       - CVE-2024-21963 XSA-524
       - CVE-2024-36350 XSA-525
       - CVE-2024-36357 XSA-525
+- pkg:
+    name: xfsprogs
+    secfixes:
+      7.3.0-r0:
+      - CVE-2026-108472
 - pkg:
     name: xkbcomp
     secfixes:
