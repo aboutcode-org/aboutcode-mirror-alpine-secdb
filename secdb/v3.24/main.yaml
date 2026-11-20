@@ -2137,6 +2137,11 @@ packages:
       1.2304.0-r0:
       - CVE-2020-12762
 - pkg:
+    name: libfontenc
+    secfixes:
+      1.1.10-r0:
+      - CVE-2026-109908
+- pkg:
     name: libgcrypt
     secfixes:
       1.8.3-r0:
@@ -2490,6 +2495,8 @@ packages:
       - CVE-2025-6021
       2.13.9-r2:
       - CVE-2026-6732
+      2.13.9-r3:
+      - CVE-2026-86144
 - pkg:
     name: libxpm
     secfixes:
