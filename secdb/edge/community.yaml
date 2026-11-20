@@ -302,7 +302,7 @@ packages:
       - CVE-2025-22604
       - CVE-2025-24367
       - CVE-2025-24368
-      1.2.31-0:
+      1.2.31-r0:
       - CVE-2026-39894
       - CVE-2026-40082
       - CVE-2026-40941
@@ -6722,7 +6722,7 @@ packages:
 - pkg:
     name: opensmtpd
     secfixes:
-      6.6.2p1-r0:
+      6.6.2_p1-r0:
       - CVE-2020-7247
 - pkg:
     name: opentofu
@@ -8921,7 +8921,7 @@ packages:
 - pkg:
     name: quickjs
     secfixes:
-      2021-03-27-r5:
+      0.20210327-r5:
       - CVE-2023-31922
 - pkg:
     name: rabbitmq-server
