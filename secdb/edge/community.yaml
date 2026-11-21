@@ -5511,6 +5511,11 @@ packages:
       1.2.5-r0:
       - CVE-2026-18321
 - pkg:
+    name: oath-toolkit
+    secfixes:
+      2.6.15:-r0:
+      - CVE-2026-109117
+- pkg:
     name: obexd-enhanced
     secfixes:
       5.54-r0:
