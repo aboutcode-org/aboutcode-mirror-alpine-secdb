@@ -2851,6 +2851,11 @@ packages:
       - CVE-2026-97042
       - CVE-2026-97043
 - pkg:
+    name: gpgme
+    secfixes:
+      2.3.1-r0:
+      - CVE-2026-129975
+- pkg:
     name: gradle
     secfixes:
       6.8.3-r0:
