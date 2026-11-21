@@ -2179,6 +2179,12 @@ packages:
       - CVE-2022-26128
       - CVE-2022-26129
 - pkg:
+    name: fuse-overlayfs
+    secfixes:
+      1.18-r0:
+      - CVE-2026-52791
+      - CVE-2026-77478
+- pkg:
     name: fuse
     secfixes:
       2.9.8-r0:
@@ -4650,6 +4656,10 @@ packages:
       - CVE-2021-3593
       - CVE-2021-3594
       - CVE-2021-3595
+      4.9.7-r0:
+      - CVE-2026-9539
+      - CVE-2026-95507
+      - CVE-2026-95508
 - pkg:
     name: libspiro
     secfixes:
