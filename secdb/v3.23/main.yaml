@@ -4304,6 +4304,11 @@ packages:
       1.2.2-r0:
       - CVE-2022-40023
 - pkg:
+    name: py3-pip
+    secfixes:
+      25.1.1-r2:
+      - CVE-2026-133949
+- pkg:
     name: py3-psutil
     secfixes:
       5.6.7-r0:
