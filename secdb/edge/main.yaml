@@ -2601,6 +2601,13 @@ packages:
       1.6.0-r0:
       - CVE-2024-22365
 - pkg:
+    name: llhttp
+    secfixes:
+      9.2.1-r0:
+      - CVE-2024-27982
+      9.4.4-r0:
+      - CVE-2026-123864
+- pkg:
     name: logrotate
     secfixes:
       3.20.1-r0:

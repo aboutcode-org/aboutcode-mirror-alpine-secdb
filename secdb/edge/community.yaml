@@ -4846,13 +4846,6 @@ packages:
       1.0.22-r0:
       - CVE-2026-46433
 - pkg:
-    name: llhttp
-    secfixes:
-      9.2.1-r0:
-      - CVE-2024-27982
-      9.4.4-r0:
-      - CVE-2026-123864
-- pkg:
     name: lrzip
     secfixes:
       0.640-r0:
