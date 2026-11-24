@@ -3746,6 +3746,9 @@ packages:
       - CVE-2026-81738
       - CVE-2026-78221
       - CVE-2026-78043
+      - CVE-2026-84256
+      - CVE-2026-115342
+      - CVE-2026-121720
       2.4.6-r0:
       - CVE-2018-9336
       2.4.9-r0:
@@ -3776,6 +3779,9 @@ packages:
       - CVE-2026-13698
       2.7.7-r0:
       - CVE-2026-84732
+      2.7.9-r0:
+      - CVE-2026-84790
+      - CVE-2026-88964
 - pkg:
     name: opus
     secfixes:
@@ -6225,6 +6231,11 @@ packages:
     secfixes:
       2.1.0-r9:
       - CVE-2023-33460
+- pkg:
+    name: yaml
+    secfixes:
+      0.2.7-r0:
+      - CVE-2026-44842
 - pkg:
     name: zeromq
     secfixes:
