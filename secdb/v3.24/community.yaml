@@ -10782,6 +10782,9 @@ packages:
       1.9.3-r1:
       - CVE-2021-3403
       - CVE-2021-3404
+      2.1.4-r0:
+      - CVE-2026-111145
+      - CVE-2026-111146
 - pkg:
     name: zabbix
     secfixes:

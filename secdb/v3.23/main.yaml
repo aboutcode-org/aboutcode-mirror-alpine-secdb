@@ -1314,6 +1314,8 @@ packages:
       - CVE-2021-41158
       1.10.11-r0:
       - CVE-2023-51443
+      1.10.12-r7:
+      - CVE-2026-116779
 - pkg:
     name: freetype
     secfixes:
@@ -2214,6 +2216,11 @@ packages:
     secfixes:
       1.2304.0-r0:
       - CVE-2020-12762
+- pkg:
+    name: libfontenc
+    secfixes:
+      1.1.10-r0:
+      - CVE-2026-109908
 - pkg:
     name: libgcrypt
     secfixes:
@@ -3704,6 +3711,12 @@ packages:
       - CVE-2026-63075
       - CVE-2026-63076
       - CVE-2026-75803
+      3.5.9-r1:
+      - CVE-2026-88822
+      - CVE-2026-88823
+      - CVE-2026-95691
+      - CVE-2026-95692
+      - CVE-2026-107496
 - pkg:
     name: openvpn-auth-ldap
     secfixes:
