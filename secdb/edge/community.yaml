@@ -9195,6 +9195,30 @@ packages:
       - CVE-2021-32740
       2.9.0-r0:
       - CVE-2026-35611
+      2.9.2-r0:
+      - CVE-2026-126348
+      - CVE-2026-126349
+      - CVE-2026-126350
+      - CVE-2026-126351
+      - CVE-2026-126352
+      - CVE-2026-126354
+- pkg:
+    name: ruby-concurrent-ruby
+    secfixes:
+      1.3.8-r0:
+      - CVE-2026-54904
+      - CVE-2026-54905
+      - CVE-2026-54906
+- pkg:
+    name: ruby-mail
+    secfixes:
+      2.9.1-r0:
+      - CVE-2026-63435
+- pkg:
+    name: ruby-mustache
+    secfixes:
+      1.1.3-r0:
+      - CVE-2026-130001
 - pkg:
     name: ruby-nokogiri
     secfixes:
@@ -9217,6 +9241,14 @@ packages:
       - CVE-2026-57436
       - CVE-2026-57437
       - CVE-2026-57438
+      1.19.7-r0:
+      - CVE-2026-126063
+      - CVE-2026-126064
+- pkg:
+    name: ruby-rdiscount
+    secfixes:
+      2.2.7.5-r0:
+      - CVE-2026-35201
 - pkg:
     name: runc
     secfixes:
