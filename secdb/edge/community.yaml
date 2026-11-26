@@ -1299,6 +1299,9 @@ packages:
       - GHSA-628g-hv7f-pgjc
       - GHSA-2fqp-xg6f-v7gj
       - GHSA-w26x-xg27-7qjc
+      29.10.1-r0:
+      - CVE-2026-135844
+      - CVE-2026-135124
 - pkg:
     name: doctl
     secfixes:
