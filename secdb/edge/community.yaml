@@ -1184,6 +1184,16 @@ packages:
       - CVE-2026-42005
       2.1.1-r0:
       - CVE-2026-52682
+      2.1.4-r0:
+      - CVE-2026-85561
+      - CVE-2026-85562
+      - CVE-2026-85563
+      - CVE-2026-85564
+      - CVE-2026-85565
+      - CVE-2026-85566
+      - CVE-2026-85567
+      - CVE-2026-123755
+      - CVE-2026-123756
 - pkg:
     name: docker-cli-buildx
     secfixes:
@@ -6810,6 +6820,17 @@ packages:
       - CVE-2026-52682
       5.1.5-r0:
       - CVE-2026-73206
+      5.1.7-r0:
+      - CVE-2026-123756
+      - CVE-2026-123757
+      - CVE-2026-123758
+      - CVE-2026-123759
+      - CVE-2026-123760
+      - CVE-2026-123761
+      - CVE-2026-123762
+      - CVE-2026-123764
+      - CVE-2026-124727
+      - CVE-2026-124728
 - pkg:
     name: perl-app-cpanminus
     secfixes:
@@ -9809,6 +9830,10 @@ packages:
       - GHSA-p3f2-88rg-9mch
       - GHSA-pmmx-m8p5-969j
       - GHSA-4hqm-8v2c-9pwj
+      4.6.4-r0:
+      - GHSA-qqfw-8w7m-fmxx
+      - GHSA-vvvj-v4jv-xqg8
+      - GHSA-9x76-w8p7-m2m7
 - pkg:
     name: texlive
     secfixes:
