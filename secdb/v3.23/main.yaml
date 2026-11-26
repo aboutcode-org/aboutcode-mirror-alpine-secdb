@@ -3162,6 +3162,8 @@ packages:
       - CVE-2026-123634
       - CVE-2026-123640
       - CVE-2026-125283
+      1.28.3-r10:
+      - CVE-2026-132779
 - pkg:
     name: ngircd
     secfixes:
@@ -5430,6 +5432,8 @@ packages:
       9.0.7-r0:
       - CVE-2026-56684
       - CVE-2026-63639
+      9.0.8-r0:
+      - CVE-2026-130822
 - pkg:
     name: varnish
     secfixes:

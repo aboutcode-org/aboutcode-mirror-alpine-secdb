@@ -5487,6 +5487,8 @@ packages:
       9.0.7-r0:
       - CVE-2026-56684
       - CVE-2026-63639
+      9.0.8-r0:
+      - CVE-2026-130822
 - pkg:
     name: varnish
     secfixes:
