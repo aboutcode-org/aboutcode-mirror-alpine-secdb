@@ -6939,6 +6939,13 @@ packages:
       1.25.1-r0:
       - CVE-2025-12819
 - pkg:
+    name: phodav
+    secfixes:
+      3.2-r0:
+      - CVE-2026-114417
+      - CVE-2026-114418
+      - CVE-2026-114419
+- pkg:
     name: php83
     secfixes:
       8.3.5-r0:
@@ -7609,6 +7616,20 @@ packages:
       2.24.1-r0:
       - CVE-2026-54591
       - CVE-2026-62949
+- pkg:
+    name: py3-authlib
+    secfixes:
+      1.9.10-r0:
+      - CVE-2026-44681
+      - CVE-2026-96760
+      - CVE-2026-114614
+      - CVE-2026-114615
+      - CVE-2026-114616
+      - CVE-2026-114617
+      - CVE-2026-114618
+      - CVE-2026-114619
+      - CVE-2026-114620
+      - CVE-2026-116672
 - pkg:
     name: py3-bleach
     secfixes:
