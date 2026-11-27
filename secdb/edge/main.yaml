@@ -3881,6 +3881,13 @@ packages:
       "2.1900":
       - CVE-2025-40918
 - pkg:
+    name: perl-cgi-psgi
+    secfixes:
+      0.16-r0:
+      - CVE-2026-120639
+      - CVE-2026-120638
+      - CVE-2026-120647
+- pkg:
     name: perl-cgi-session
     secfixes:
       4.49-r0:
