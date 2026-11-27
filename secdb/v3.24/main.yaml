@@ -6031,6 +6031,10 @@ packages:
       - CVE-2024-21963 XSA-524
       - CVE-2024-36350 XSA-525
       - CVE-2024-36357 XSA-525
+      4.21.2-r5:
+      - CVE-2026-119781 XSA-535
+      - CVE-2026-119782 XSA-535
+      - CVE-2026-119783 XSA-535
 - pkg:
     name: xkbcomp
     secfixes:
