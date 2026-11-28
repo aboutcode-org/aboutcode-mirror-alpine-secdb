@@ -6848,6 +6848,11 @@ packages:
       - CVE-2026-58101
       - CVE-2026-58102
 - pkg:
+    name: perl-data-dump
+    secfixes:
+      1.28-r0:
+      - CVE-2026-133443
+- pkg:
     name: perl-email-mime
     secfixes:
       1.954-r0:
