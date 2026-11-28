@@ -9366,6 +9366,8 @@ packages:
       - CVE-2026-41579
       1.5.3-r0:
       - CVE-2026-119101
+      1.6.0-r0:
+      - CVE-2026-135844
 - pkg:
     name: rxvt-unicode
     secfixes:
